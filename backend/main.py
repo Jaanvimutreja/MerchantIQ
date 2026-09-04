@@ -2,7 +2,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
 from database import engine, Base
-from routes import products, bargains, offers, audit
+from routes import products, bargains, offers, payments, audit
 
 # Create all tables on startup
 Base.metadata.create_all(bind=engine)
@@ -32,4 +32,5 @@ def health_check():
 app.include_router(products.router)
 app.include_router(bargains.router)
 app.include_router(offers.router)
+app.include_router(payments.router)
 app.include_router(audit.router)

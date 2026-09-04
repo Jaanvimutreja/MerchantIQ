@@ -1,6 +1,6 @@
 from datetime import datetime
 from typing import Optional
-from pydantic import BaseModel, Field
+from pydantic import BaseModel, EmailStr, Field
 
 
 # ── Product ───────────────────────────────────────────────────
@@ -67,6 +67,21 @@ class OfferOut(BaseModel):
     model_config = {"from_attributes": True}
 
 
+# ── Payment ───────────────────────────────────────────────────
+
+class PaymentOut(BaseModel):
+    id: int
+    bargain_id: int
+    offer_id: int
+    razorpay_order_id: Optional[str]
+    razorpay_payment_id: Optional[str]
+    amount: float
+    status: str
+    created_at: datetime
+
+    model_config = {"from_attributes": True}
+
+
 # ── Audit ─────────────────────────────────────────────────────
 
 class AuditLogOut(BaseModel):
@@ -102,3 +117,22 @@ class ApprovalOut(BaseModel):
     approved_offer_id: int
     status: str
     version: int
+
+
+# ── Razorpay Payment ──────────────────────────────────────────
+
+class CreateOrderRequest(BaseModel):
+    bargain_id: int
+    offer_id: int
+
+
+class CreateOrderResponse(BaseModel):
+    razorpay_order_id: str
+    amount: int
+    amount_inr: float
+    currency: str
+    key_id: str
+    payment_id: int
+
+
+

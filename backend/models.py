@@ -22,6 +22,12 @@ class OfferStatus(str, enum.Enum):
     REJECTED = "REJECTED"
 
 
+class PaymentStatus(str, enum.Enum):
+    PENDING = "PENDING"
+    SUCCEEDED = "SUCCEEDED"
+    FAILED = "FAILED"
+
+
 # ── Models ────────────────────────────────────────────────────
 
 def _utcnow() -> datetime:
@@ -58,6 +64,7 @@ class Bargain(Base):
 
     product = relationship("Product", back_populates="bargains")
     offers = relationship("Offer", back_populates="bargain")
+    payments = relationship("Payment", back_populates="bargain")
     audit_logs = relationship("AuditLog", back_populates="bargain")
 
 
@@ -73,6 +80,23 @@ class Offer(Base):
     created_at = Column(DateTime, default=_utcnow)
 
     bargain = relationship("Bargain", back_populates="offers")
+    payments = relationship("Payment", back_populates="offer")
+
+
+class Payment(Base):
+    __tablename__ = "payments"
+
+    id = Column(Integer, primary_key=True, index=True)
+    bargain_id = Column(Integer, ForeignKey("bargains.id"), nullable=False)
+    offer_id = Column(Integer, ForeignKey("offers.id"), nullable=False)
+    razorpay_order_id = Column(String, nullable=True)
+    razorpay_payment_id = Column(String, nullable=True)
+    amount = Column(Float, nullable=False)
+    status = Column(SAEnum(PaymentStatus), default=PaymentStatus.PENDING, nullable=False)
+    created_at = Column(DateTime, default=_utcnow)
+
+    bargain = relationship("Bargain", back_populates="payments")
+    offer = relationship("Offer", back_populates="payments")
 
 
 class AuditLog(Base):
