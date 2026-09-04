@@ -88,3 +88,17 @@ class RecommendationOut(BaseModel):
     is_fallback: bool = False
     customer_name: Optional[str] = None
     offered_price: Optional[float] = None
+
+
+# ── Merchant Approval & Rejection ─────────────────────────────
+
+class OfferActionRequest(BaseModel):
+    offer_id: int
+
+
+class ApprovalOut(BaseModel):
+    message: str
+    bargain_id: int
+    approved_offer_id: int
+    status: str
+    version: int
