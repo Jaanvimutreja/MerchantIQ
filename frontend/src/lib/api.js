@@ -38,12 +38,17 @@ export function getBargain(id) {
   return apiFetch(`/bargains/${id}`);
 }
 
+export function getProducts() {
+  return apiFetch("/products/");
+}
+
 export function createProduct(body) {
   return apiFetch("/products/", {
     method: "POST",
     body: JSON.stringify(body),
   });
 }
+
 
 export function createBargain(body) {
   return apiFetch("/bargains/", {
