@@ -77,3 +77,14 @@ class AuditLogOut(BaseModel):
     created_at: datetime
 
     model_config = {"from_attributes": True}
+
+
+# ── AI Recommendation ─────────────────────────────────────────
+
+class RecommendationOut(BaseModel):
+    recommended_offer_id: int
+    confidence: float
+    reasoning: str
+    is_fallback: bool = False
+    customer_name: Optional[str] = None
+    offered_price: Optional[float] = None
