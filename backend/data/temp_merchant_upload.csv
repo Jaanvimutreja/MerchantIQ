@@ -1,0 +1,501 @@
+amount,payment_status,payment_method,device_type,product_category,location,timestamp,cart_abandoned,refund_requested,retry_count,checkout_duration,discount_given,discount_requested,negotiation_started,negotiation_rounds,final_order_status,failure_reason,order_id,customer_id,merchant_id,event_id,refund_status
+15233.0,SUCCESS,UPI,Android,Luxury & Watches,Hyderabad,2026-08-22 19:00:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000001,cust_0001,merchant_upload,evt_000001,NONE
+6521.0,SUCCESS,Credit Card,Android,Luxury & Watches,Delhi,2026-08-22 19:02:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000002,cust_0002,merchant_upload,evt_000002,NONE
+2168.0,SUCCESS,Net Banking,iOS,Beauty,Bangalore,2026-08-22 19:04:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000003,cust_0003,merchant_upload,evt_000003,NONE
+8469.0,SUCCESS,EMI,iOS,Beauty,Pune,2026-08-22 19:06:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000004,cust_0004,merchant_upload,evt_000004,NONE
+2702.0,SUCCESS,Net Banking,iOS,Fashion,Pune,2026-08-22 19:08:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000005,cust_0005,merchant_upload,evt_000005,NONE
+6648.0,SUCCESS,Net Banking,Desktop,Beauty,Pune,2026-08-22 19:10:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000006,cust_0006,merchant_upload,evt_000006,NONE
+2148.0,SUCCESS,Credit Card,Android,Luxury & Watches,Delhi,2026-08-22 19:12:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000007,cust_0007,merchant_upload,evt_000007,NONE
+8999.0,SUCCESS,Net Banking,Desktop,Home,Hyderabad,2026-08-22 19:14:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000008,cust_0008,merchant_upload,evt_000008,NONE
+6611.0,FAILED,Net Banking,Android,Beauty,Bangalore,2026-08-22 19:16:30.850064,False,False,0,60,0.0,0.0,False,0,FAILED,,ord_000009,cust_0009,merchant_upload,evt_000009,NONE
+6253.0,SUCCESS,Debit Card,Android,Beauty,Pune,2026-08-22 19:18:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000010,cust_0010,merchant_upload,evt_000010,NONE
+2775.0,SUCCESS,Net Banking,Android,Home,Hyderabad,2026-08-22 19:20:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000011,cust_0011,merchant_upload,evt_000011,NONE
+8053.0,SUCCESS,Debit Card,iOS,Beauty,Delhi,2026-08-22 19:22:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000012,cust_0012,merchant_upload,evt_000012,NONE
+2376.0,SUCCESS,Net Banking,Desktop,Luxury & Watches,Delhi,2026-08-22 19:24:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000013,cust_0013,merchant_upload,evt_000013,NONE
+11399.0,SUCCESS,Debit Card,Android,Fashion,Bangalore,2026-08-22 19:26:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000014,cust_0014,merchant_upload,evt_000014,NONE
+9209.0,SUCCESS,Credit Card,iOS,Luxury & Watches,Mumbai,2026-08-22 19:28:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000015,cust_0015,merchant_upload,evt_000015,NONE
+672.0,SUCCESS,Credit Card,Desktop,Beauty,Hyderabad,2026-08-22 19:30:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000016,cust_0016,merchant_upload,evt_000016,NONE
+902.0,SUCCESS,Net Banking,Android,Fashion,Bangalore,2026-08-22 19:32:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000017,cust_0017,merchant_upload,evt_000017,NONE
+6681.0,SUCCESS,Debit Card,iOS,Beauty,Delhi,2026-08-22 19:34:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000018,cust_0018,merchant_upload,evt_000018,NONE
+16687.0,SUCCESS,Credit Card,iOS,Luxury & Watches,Bangalore,2026-08-22 19:36:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000019,cust_0019,merchant_upload,evt_000019,NONE
+1620.0,SUCCESS,Credit Card,Android,Luxury & Watches,Delhi,2026-08-22 19:38:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000020,cust_0020,merchant_upload,evt_000020,NONE
+9115.0,SUCCESS,EMI,Android,Luxury & Watches,Mumbai,2026-08-22 19:40:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000021,cust_0021,merchant_upload,evt_000021,NONE
+1371.0,SUCCESS,Net Banking,iOS,Electronics,Bangalore,2026-08-22 19:42:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000022,cust_0022,merchant_upload,evt_000022,NONE
+5905.0,SUCCESS,Credit Card,iOS,Luxury & Watches,Pune,2026-08-22 19:44:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000023,cust_0023,merchant_upload,evt_000023,NONE
+1060.0,SUCCESS,UPI,Android,Home,Bangalore,2026-08-22 19:46:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000024,cust_0024,merchant_upload,evt_000024,NONE
+3994.0,SUCCESS,Credit Card,iOS,Luxury & Watches,Hyderabad,2026-08-22 19:48:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000025,cust_0025,merchant_upload,evt_000025,NONE
+4256.0,SUCCESS,EMI,iOS,Luxury & Watches,Mumbai,2026-08-22 19:50:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000026,cust_0026,merchant_upload,evt_000026,NONE
+3368.0,SUCCESS,Credit Card,Desktop,Fashion,Hyderabad,2026-08-22 19:52:30.850064,False,True,0,60,0.0,0.0,False,0,COMPLETED,,ord_000027,cust_0027,merchant_upload,evt_000027,REQUESTED
+5077.0,SUCCESS,Debit Card,Android,Fashion,Pune,2026-08-22 19:54:30.850064,False,True,0,60,0.0,0.0,False,0,COMPLETED,,ord_000028,cust_0028,merchant_upload,evt_000028,REQUESTED
+2477.0,SUCCESS,Credit Card,Android,Beauty,Delhi,2026-08-22 19:56:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000029,cust_0029,merchant_upload,evt_000029,NONE
+5369.0,SUCCESS,EMI,Desktop,Luxury & Watches,Delhi,2026-08-22 19:58:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000030,cust_0030,merchant_upload,evt_000030,NONE
+8956.0,SUCCESS,Debit Card,Desktop,Beauty,Pune,2026-08-22 20:00:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000031,cust_0031,merchant_upload,evt_000031,NONE
+6077.0,SUCCESS,Debit Card,iOS,Fashion,Bangalore,2026-08-22 20:02:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000032,cust_0032,merchant_upload,evt_000032,NONE
+10234.0,SUCCESS,UPI,Desktop,Fashion,Mumbai,2026-08-22 20:04:30.850064,False,True,0,60,0.0,0.0,False,0,COMPLETED,,ord_000033,cust_0033,merchant_upload,evt_000033,REQUESTED
+4975.0,SUCCESS,EMI,Android,Beauty,Pune,2026-08-22 20:06:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000034,cust_0034,merchant_upload,evt_000034,NONE
+10005.0,SUCCESS,UPI,Desktop,Luxury & Watches,Hyderabad,2026-08-22 20:08:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000035,cust_0035,merchant_upload,evt_000035,NONE
+11535.0,SUCCESS,Net Banking,iOS,Beauty,Bangalore,2026-08-22 20:10:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000036,cust_0036,merchant_upload,evt_000036,NONE
+17653.0,FAILED,Debit Card,iOS,Luxury & Watches,Bangalore,2026-08-22 20:12:30.850064,False,False,0,60,0.0,0.0,False,0,FAILED,,ord_000037,cust_0037,merchant_upload,evt_000037,NONE
+997.0,SUCCESS,EMI,Android,Home,Bangalore,2026-08-22 20:14:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000038,cust_0038,merchant_upload,evt_000038,NONE
+4146.0,SUCCESS,Net Banking,Desktop,Home,Hyderabad,2026-08-22 20:16:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000039,cust_0039,merchant_upload,evt_000039,NONE
+9593.0,SUCCESS,Net Banking,Android,Home,Delhi,2026-08-22 20:18:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000040,cust_0040,merchant_upload,evt_000040,NONE
+7614.0,SUCCESS,Credit Card,Android,Beauty,Bangalore,2026-08-22 20:20:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000041,cust_0041,merchant_upload,evt_000041,NONE
+706.0,SUCCESS,EMI,iOS,Luxury & Watches,Delhi,2026-08-22 20:22:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000042,cust_0042,merchant_upload,evt_000042,NONE
+1557.0,SUCCESS,UPI,Android,Home,Bangalore,2026-08-22 20:24:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000043,cust_0043,merchant_upload,evt_000043,NONE
+4054.0,SUCCESS,Debit Card,Desktop,Beauty,Bangalore,2026-08-22 20:26:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000044,cust_0044,merchant_upload,evt_000044,NONE
+16927.0,SUCCESS,Net Banking,iOS,Beauty,Hyderabad,2026-08-22 20:28:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000045,cust_0045,merchant_upload,evt_000045,NONE
+1604.0,FAILED,UPI,Desktop,Fashion,Bangalore,2026-08-22 20:30:30.850064,False,False,0,60,0.0,0.0,False,0,FAILED,,ord_000046,cust_0046,merchant_upload,evt_000046,NONE
+1727.0,SUCCESS,Debit Card,iOS,Fashion,Delhi,2026-08-22 20:32:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000047,cust_0047,merchant_upload,evt_000047,NONE
+1212.0,SUCCESS,EMI,Desktop,Electronics,Bangalore,2026-08-22 20:34:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000048,cust_0048,merchant_upload,evt_000048,NONE
+3065.0,SUCCESS,Debit Card,iOS,Electronics,Mumbai,2026-08-22 20:36:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000049,cust_0049,merchant_upload,evt_000049,NONE
+6540.0,SUCCESS,Credit Card,Android,Home,Mumbai,2026-08-22 20:38:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000050,cust_0050,merchant_upload,evt_000050,NONE
+5856.0,SUCCESS,Credit Card,Android,Home,Hyderabad,2026-08-22 20:40:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000051,cust_0051,merchant_upload,evt_000051,NONE
+3465.0,SUCCESS,Net Banking,iOS,Electronics,Hyderabad,2026-08-22 20:42:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000052,cust_0052,merchant_upload,evt_000052,NONE
+3509.0,FAILED,EMI,iOS,Home,Pune,2026-08-22 20:44:30.850064,False,False,0,60,0.0,0.0,False,0,FAILED,,ord_000053,cust_0053,merchant_upload,evt_000053,NONE
+15104.0,SUCCESS,EMI,Desktop,Electronics,Pune,2026-08-22 20:46:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000054,cust_0054,merchant_upload,evt_000054,NONE
+3916.0,SUCCESS,EMI,Desktop,Beauty,Mumbai,2026-08-22 20:48:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000055,cust_0055,merchant_upload,evt_000055,NONE
+6398.0,SUCCESS,UPI,Android,Electronics,Delhi,2026-08-22 20:50:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000056,cust_0056,merchant_upload,evt_000056,NONE
+14489.0,SUCCESS,Debit Card,Desktop,Beauty,Delhi,2026-08-22 20:52:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000057,cust_0057,merchant_upload,evt_000057,NONE
+695.0,SUCCESS,Net Banking,Android,Luxury & Watches,Mumbai,2026-08-22 20:54:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000058,cust_0058,merchant_upload,evt_000058,NONE
+1568.0,SUCCESS,Debit Card,iOS,Fashion,Mumbai,2026-08-22 20:56:30.850064,False,True,0,60,0.0,0.0,False,0,COMPLETED,,ord_000059,cust_0059,merchant_upload,evt_000059,REQUESTED
+17778.0,SUCCESS,Debit Card,iOS,Beauty,Bangalore,2026-08-22 20:58:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000060,cust_0060,merchant_upload,evt_000060,NONE
+7601.0,SUCCESS,Net Banking,Android,Fashion,Pune,2026-08-22 21:00:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000061,cust_0061,merchant_upload,evt_000061,NONE
+11483.0,FAILED,Net Banking,iOS,Electronics,Hyderabad,2026-08-22 21:02:30.850064,False,False,0,60,0.0,0.0,False,0,FAILED,,ord_000062,cust_0062,merchant_upload,evt_000062,NONE
+6669.0,SUCCESS,Net Banking,Desktop,Fashion,Hyderabad,2026-08-22 21:04:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000063,cust_0063,merchant_upload,evt_000063,NONE
+1852.0,SUCCESS,UPI,Desktop,Electronics,Bangalore,2026-08-22 21:06:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000064,cust_0064,merchant_upload,evt_000064,NONE
+2278.0,SUCCESS,EMI,Android,Fashion,Pune,2026-08-22 21:08:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000065,cust_0065,merchant_upload,evt_000065,NONE
+6708.0,SUCCESS,Net Banking,Android,Luxury & Watches,Bangalore,2026-08-22 21:10:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000066,cust_0066,merchant_upload,evt_000066,NONE
+1987.0,SUCCESS,EMI,Desktop,Electronics,Mumbai,2026-08-22 21:12:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000067,cust_0067,merchant_upload,evt_000067,NONE
+2782.0,SUCCESS,Credit Card,Android,Beauty,Hyderabad,2026-08-22 21:14:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000068,cust_0068,merchant_upload,evt_000068,NONE
+10041.0,SUCCESS,Credit Card,iOS,Luxury & Watches,Pune,2026-08-22 21:16:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000069,cust_0069,merchant_upload,evt_000069,NONE
+1553.0,SUCCESS,Net Banking,Desktop,Home,Mumbai,2026-08-22 21:18:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000070,cust_0070,merchant_upload,evt_000070,NONE
+1464.0,SUCCESS,Debit Card,Desktop,Beauty,Bangalore,2026-08-22 21:20:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000071,cust_0071,merchant_upload,evt_000071,NONE
+13927.0,SUCCESS,Net Banking,Android,Electronics,Mumbai,2026-08-22 21:22:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000072,cust_0072,merchant_upload,evt_000072,NONE
+13913.0,SUCCESS,Net Banking,iOS,Beauty,Mumbai,2026-08-22 21:24:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000073,cust_0073,merchant_upload,evt_000073,NONE
+2441.0,SUCCESS,Credit Card,Android,Fashion,Bangalore,2026-08-22 21:26:30.850064,False,True,0,60,0.0,0.0,False,0,COMPLETED,,ord_000074,cust_0074,merchant_upload,evt_000074,REQUESTED
+4167.0,SUCCESS,Credit Card,iOS,Fashion,Hyderabad,2026-08-22 21:28:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000075,cust_0075,merchant_upload,evt_000075,NONE
+11704.0,SUCCESS,Debit Card,iOS,Fashion,Pune,2026-08-22 21:30:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000076,cust_0076,merchant_upload,evt_000076,NONE
+1499.0,SUCCESS,EMI,Android,Beauty,Pune,2026-08-22 21:32:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000077,cust_0077,merchant_upload,evt_000077,NONE
+11175.0,SUCCESS,UPI,iOS,Home,Bangalore,2026-08-22 21:34:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000078,cust_0078,merchant_upload,evt_000078,NONE
+3305.0,SUCCESS,UPI,Android,Luxury & Watches,Delhi,2026-08-22 21:36:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000079,cust_0079,merchant_upload,evt_000079,NONE
+6243.0,SUCCESS,EMI,Android,Electronics,Bangalore,2026-08-22 21:38:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000080,cust_0080,merchant_upload,evt_000080,NONE
+1595.0,SUCCESS,UPI,Desktop,Luxury & Watches,Delhi,2026-08-22 21:40:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000081,cust_0081,merchant_upload,evt_000081,NONE
+813.0,SUCCESS,Debit Card,Desktop,Home,Mumbai,2026-08-22 21:42:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000082,cust_0082,merchant_upload,evt_000082,NONE
+1357.0,SUCCESS,EMI,Android,Home,Mumbai,2026-08-22 21:44:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000083,cust_0083,merchant_upload,evt_000083,NONE
+6841.0,SUCCESS,Credit Card,iOS,Fashion,Hyderabad,2026-08-22 21:46:30.850064,False,True,0,60,0.0,0.0,False,0,COMPLETED,,ord_000084,cust_0084,merchant_upload,evt_000084,REQUESTED
+5071.0,SUCCESS,EMI,Android,Beauty,Hyderabad,2026-08-22 21:48:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000085,cust_0085,merchant_upload,evt_000085,NONE
+10552.0,SUCCESS,UPI,Desktop,Electronics,Pune,2026-08-22 21:50:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000086,cust_0086,merchant_upload,evt_000086,NONE
+1351.0,SUCCESS,Credit Card,Android,Beauty,Mumbai,2026-08-22 21:52:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000087,cust_0087,merchant_upload,evt_000087,NONE
+10580.0,SUCCESS,EMI,Android,Home,Hyderabad,2026-08-22 21:54:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000088,cust_0088,merchant_upload,evt_000088,NONE
+15445.0,SUCCESS,UPI,Android,Home,Delhi,2026-08-22 21:56:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000089,cust_0089,merchant_upload,evt_000089,NONE
+11700.0,SUCCESS,UPI,iOS,Beauty,Delhi,2026-08-22 21:58:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000090,cust_0090,merchant_upload,evt_000090,NONE
+16563.0,SUCCESS,Credit Card,iOS,Fashion,Hyderabad,2026-08-22 22:00:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000091,cust_0091,merchant_upload,evt_000091,NONE
+2757.0,SUCCESS,Net Banking,Desktop,Fashion,Pune,2026-08-22 22:02:30.850064,False,True,0,60,0.0,0.0,False,0,COMPLETED,,ord_000092,cust_0092,merchant_upload,evt_000092,REQUESTED
+4133.0,SUCCESS,Net Banking,iOS,Electronics,Pune,2026-08-22 22:04:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000093,cust_0093,merchant_upload,evt_000093,NONE
+6733.0,SUCCESS,Credit Card,Desktop,Beauty,Mumbai,2026-08-22 22:06:30.850064,False,True,0,60,0.0,0.0,False,0,COMPLETED,,ord_000094,cust_0094,merchant_upload,evt_000094,REQUESTED
+15159.0,SUCCESS,Net Banking,Desktop,Luxury & Watches,Bangalore,2026-08-22 22:08:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000095,cust_0095,merchant_upload,evt_000095,NONE
+2672.0,SUCCESS,Credit Card,Android,Home,Mumbai,2026-08-22 22:10:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000096,cust_0096,merchant_upload,evt_000096,NONE
+12027.0,SUCCESS,EMI,Android,Fashion,Bangalore,2026-08-22 22:12:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000097,cust_0097,merchant_upload,evt_000097,NONE
+4487.0,SUCCESS,Credit Card,Desktop,Luxury & Watches,Pune,2026-08-22 22:14:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000098,cust_0098,merchant_upload,evt_000098,NONE
+3709.0,SUCCESS,UPI,iOS,Luxury & Watches,Bangalore,2026-08-22 22:16:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000099,cust_0099,merchant_upload,evt_000099,NONE
+1409.0,SUCCESS,Debit Card,iOS,Fashion,Pune,2026-08-22 22:18:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000100,cust_0100,merchant_upload,evt_000100,NONE
+4936.0,SUCCESS,EMI,iOS,Home,Bangalore,2026-08-22 22:20:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000101,cust_0101,merchant_upload,evt_000101,NONE
+1622.0,SUCCESS,Debit Card,Desktop,Home,Mumbai,2026-08-22 22:22:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000102,cust_0102,merchant_upload,evt_000102,NONE
+707.0,SUCCESS,EMI,iOS,Luxury & Watches,Pune,2026-08-22 22:24:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000103,cust_0103,merchant_upload,evt_000103,NONE
+5596.0,SUCCESS,Net Banking,Android,Electronics,Hyderabad,2026-08-22 22:26:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000104,cust_0104,merchant_upload,evt_000104,NONE
+14053.0,SUCCESS,EMI,Android,Home,Pune,2026-08-22 22:28:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000105,cust_0105,merchant_upload,evt_000105,NONE
+16775.0,SUCCESS,Debit Card,Desktop,Beauty,Pune,2026-08-22 22:30:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000106,cust_0106,merchant_upload,evt_000106,NONE
+11678.0,SUCCESS,EMI,Desktop,Beauty,Bangalore,2026-08-22 22:32:30.850064,False,True,0,60,0.0,0.0,False,0,COMPLETED,,ord_000107,cust_0107,merchant_upload,evt_000107,REQUESTED
+13347.0,FAILED,Debit Card,Android,Luxury & Watches,Hyderabad,2026-08-22 22:34:30.850064,False,False,0,60,0.0,0.0,False,0,FAILED,,ord_000108,cust_0108,merchant_upload,evt_000108,NONE
+559.0,SUCCESS,Credit Card,iOS,Luxury & Watches,Pune,2026-08-22 22:36:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000109,cust_0109,merchant_upload,evt_000109,NONE
+7509.0,SUCCESS,UPI,Android,Fashion,Mumbai,2026-08-22 22:38:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000110,cust_0110,merchant_upload,evt_000110,NONE
+1556.0,SUCCESS,Debit Card,iOS,Fashion,Delhi,2026-08-22 22:40:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000111,cust_0111,merchant_upload,evt_000111,NONE
+8630.0,SUCCESS,UPI,Android,Luxury & Watches,Pune,2026-08-22 22:42:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000112,cust_0112,merchant_upload,evt_000112,NONE
+3723.0,SUCCESS,UPI,Desktop,Home,Mumbai,2026-08-22 22:44:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000113,cust_0113,merchant_upload,evt_000113,NONE
+628.0,SUCCESS,Net Banking,iOS,Beauty,Delhi,2026-08-22 22:46:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000114,cust_0114,merchant_upload,evt_000114,NONE
+15929.0,SUCCESS,Credit Card,iOS,Fashion,Bangalore,2026-08-22 22:48:30.850064,True,True,0,60,0.0,0.0,False,0,ABANDONED,,ord_000115,cust_0115,merchant_upload,evt_000115,REQUESTED
+5019.0,SUCCESS,UPI,Desktop,Electronics,Bangalore,2026-08-22 22:50:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000116,cust_0116,merchant_upload,evt_000116,NONE
+4664.0,SUCCESS,EMI,Desktop,Beauty,Mumbai,2026-08-22 22:52:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000117,cust_0117,merchant_upload,evt_000117,NONE
+7557.0,SUCCESS,EMI,iOS,Luxury & Watches,Pune,2026-08-22 22:54:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000118,cust_0118,merchant_upload,evt_000118,NONE
+6118.0,SUCCESS,EMI,iOS,Beauty,Bangalore,2026-08-22 22:56:30.850064,False,True,0,60,0.0,0.0,False,0,COMPLETED,,ord_000119,cust_0119,merchant_upload,evt_000119,REQUESTED
+12213.0,SUCCESS,UPI,Desktop,Beauty,Pune,2026-08-22 22:58:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000120,cust_0120,merchant_upload,evt_000120,NONE
+3372.0,SUCCESS,Net Banking,Desktop,Beauty,Hyderabad,2026-08-22 23:00:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000121,cust_0121,merchant_upload,evt_000121,NONE
+5373.0,FAILED,UPI,iOS,Home,Pune,2026-08-22 23:02:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000122,cust_0122,merchant_upload,evt_000122,NONE
+1606.0,SUCCESS,Debit Card,iOS,Beauty,Pune,2026-08-22 23:04:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000123,cust_0123,merchant_upload,evt_000123,NONE
+504.0,SUCCESS,UPI,Android,Electronics,Delhi,2026-08-22 23:06:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000124,cust_0124,merchant_upload,evt_000124,NONE
+8689.0,FAILED,EMI,Desktop,Luxury & Watches,Hyderabad,2026-08-22 23:08:30.850064,False,False,0,60,0.0,0.0,False,0,FAILED,,ord_000125,cust_0125,merchant_upload,evt_000125,NONE
+969.0,SUCCESS,UPI,Desktop,Home,Delhi,2026-08-22 23:10:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000126,cust_0126,merchant_upload,evt_000126,NONE
+4851.0,SUCCESS,EMI,Desktop,Home,Mumbai,2026-08-22 23:12:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000127,cust_0127,merchant_upload,evt_000127,NONE
+9703.0,SUCCESS,Net Banking,Desktop,Fashion,Delhi,2026-08-22 23:14:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000128,cust_0128,merchant_upload,evt_000128,NONE
+3703.0,SUCCESS,UPI,Android,Home,Mumbai,2026-08-22 23:16:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000129,cust_0129,merchant_upload,evt_000129,NONE
+808.0,SUCCESS,Debit Card,Android,Fashion,Mumbai,2026-08-22 23:18:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000130,cust_0130,merchant_upload,evt_000130,NONE
+13013.0,SUCCESS,UPI,iOS,Luxury & Watches,Mumbai,2026-08-22 23:20:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000131,cust_0131,merchant_upload,evt_000131,NONE
+1651.0,SUCCESS,Credit Card,iOS,Luxury & Watches,Bangalore,2026-08-22 23:22:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000132,cust_0132,merchant_upload,evt_000132,NONE
+4564.0,SUCCESS,Debit Card,Desktop,Home,Bangalore,2026-08-22 23:24:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000133,cust_0133,merchant_upload,evt_000133,NONE
+17481.0,FAILED,Credit Card,Desktop,Beauty,Hyderabad,2026-08-22 23:26:30.850064,False,False,0,60,0.0,0.0,False,0,FAILED,,ord_000134,cust_0134,merchant_upload,evt_000134,NONE
+14761.0,SUCCESS,UPI,iOS,Electronics,Bangalore,2026-08-22 23:28:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000135,cust_0135,merchant_upload,evt_000135,NONE
+3346.0,SUCCESS,UPI,iOS,Home,Delhi,2026-08-22 23:30:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000136,cust_0136,merchant_upload,evt_000136,NONE
+2887.0,SUCCESS,Net Banking,Android,Electronics,Mumbai,2026-08-22 23:32:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000137,cust_0137,merchant_upload,evt_000137,NONE
+2727.0,SUCCESS,UPI,iOS,Home,Hyderabad,2026-08-22 23:34:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000138,cust_0138,merchant_upload,evt_000138,NONE
+4293.0,SUCCESS,EMI,Desktop,Home,Pune,2026-08-22 23:36:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000139,cust_0139,merchant_upload,evt_000139,NONE
+10307.0,SUCCESS,Debit Card,Desktop,Luxury & Watches,Bangalore,2026-08-22 23:38:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000140,cust_0140,merchant_upload,evt_000140,NONE
+2670.0,SUCCESS,UPI,Desktop,Luxury & Watches,Delhi,2026-08-22 23:40:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000141,cust_0141,merchant_upload,evt_000141,NONE
+5415.0,SUCCESS,UPI,Android,Home,Mumbai,2026-08-22 23:42:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000142,cust_0142,merchant_upload,evt_000142,NONE
+2456.0,SUCCESS,EMI,iOS,Beauty,Mumbai,2026-08-22 23:44:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000143,cust_0143,merchant_upload,evt_000143,NONE
+4129.0,SUCCESS,Credit Card,iOS,Home,Bangalore,2026-08-22 23:46:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000144,cust_0144,merchant_upload,evt_000144,NONE
+5748.0,SUCCESS,Credit Card,Desktop,Luxury & Watches,Hyderabad,2026-08-22 23:48:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000145,cust_0145,merchant_upload,evt_000145,NONE
+10912.0,SUCCESS,Debit Card,Desktop,Fashion,Mumbai,2026-08-22 23:50:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000146,cust_0146,merchant_upload,evt_000146,NONE
+12058.0,SUCCESS,Net Banking,iOS,Home,Delhi,2026-08-22 23:52:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000147,cust_0147,merchant_upload,evt_000147,NONE
+8503.0,SUCCESS,UPI,iOS,Home,Bangalore,2026-08-22 23:54:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000148,cust_0148,merchant_upload,evt_000148,NONE
+14069.0,SUCCESS,Debit Card,iOS,Fashion,Delhi,2026-08-22 23:56:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000149,cust_0149,merchant_upload,evt_000149,NONE
+3560.0,SUCCESS,EMI,iOS,Electronics,Bangalore,2026-08-22 23:58:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000150,cust_0150,merchant_upload,evt_000150,NONE
+3894.0,SUCCESS,Net Banking,iOS,Home,Hyderabad,2026-08-23 00:00:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000151,cust_0151,merchant_upload,evt_000151,NONE
+3555.0,SUCCESS,Net Banking,Android,Electronics,Pune,2026-08-23 00:02:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000152,cust_0152,merchant_upload,evt_000152,NONE
+1644.0,SUCCESS,UPI,Android,Fashion,Delhi,2026-08-23 00:04:30.850064,False,True,0,60,0.0,0.0,False,0,COMPLETED,,ord_000153,cust_0153,merchant_upload,evt_000153,REQUESTED
+7289.0,SUCCESS,UPI,iOS,Fashion,Mumbai,2026-08-23 00:06:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000154,cust_0154,merchant_upload,evt_000154,NONE
+4292.0,SUCCESS,Net Banking,Android,Electronics,Delhi,2026-08-23 00:08:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000155,cust_0155,merchant_upload,evt_000155,NONE
+6834.0,SUCCESS,Net Banking,Android,Fashion,Bangalore,2026-08-23 00:10:30.850064,False,True,0,60,0.0,0.0,False,0,COMPLETED,,ord_000156,cust_0156,merchant_upload,evt_000156,REQUESTED
+11019.0,FAILED,Credit Card,Android,Fashion,Bangalore,2026-08-23 00:12:30.850064,False,False,0,60,0.0,0.0,False,0,FAILED,,ord_000157,cust_0157,merchant_upload,evt_000157,NONE
+1133.0,SUCCESS,Net Banking,Android,Home,Pune,2026-08-23 00:14:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000158,cust_0158,merchant_upload,evt_000158,NONE
+1711.0,SUCCESS,Credit Card,iOS,Home,Delhi,2026-08-23 00:16:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000159,cust_0159,merchant_upload,evt_000159,NONE
+1733.0,SUCCESS,Debit Card,iOS,Luxury & Watches,Mumbai,2026-08-23 00:18:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000160,cust_0160,merchant_upload,evt_000160,NONE
+8106.0,SUCCESS,Credit Card,Android,Home,Delhi,2026-08-23 00:20:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000161,cust_0161,merchant_upload,evt_000161,NONE
+706.0,SUCCESS,Debit Card,Desktop,Fashion,Mumbai,2026-08-23 00:22:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000162,cust_0162,merchant_upload,evt_000162,NONE
+717.0,SUCCESS,Net Banking,iOS,Beauty,Bangalore,2026-08-23 00:24:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000163,cust_0163,merchant_upload,evt_000163,NONE
+1309.0,SUCCESS,Net Banking,iOS,Home,Hyderabad,2026-08-23 00:26:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000164,cust_0164,merchant_upload,evt_000164,NONE
+11174.0,SUCCESS,UPI,Android,Beauty,Delhi,2026-08-23 00:28:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000165,cust_0165,merchant_upload,evt_000165,NONE
+3819.0,SUCCESS,Credit Card,Desktop,Home,Pune,2026-08-23 00:30:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000166,cust_0166,merchant_upload,evt_000166,NONE
+7243.0,SUCCESS,Credit Card,Desktop,Beauty,Mumbai,2026-08-23 00:32:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000167,cust_0167,merchant_upload,evt_000167,NONE
+1326.0,SUCCESS,Net Banking,Desktop,Fashion,Hyderabad,2026-08-23 00:34:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000168,cust_0168,merchant_upload,evt_000168,NONE
+15887.0,FAILED,EMI,Desktop,Luxury & Watches,Pune,2026-08-23 00:36:30.850064,False,False,0,60,0.0,0.0,False,0,FAILED,,ord_000169,cust_0169,merchant_upload,evt_000169,NONE
+2363.0,SUCCESS,Credit Card,Android,Electronics,Bangalore,2026-08-23 00:38:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000170,cust_0170,merchant_upload,evt_000170,NONE
+10188.0,SUCCESS,Net Banking,Desktop,Electronics,Pune,2026-08-23 00:40:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000171,cust_0171,merchant_upload,evt_000171,NONE
+695.0,SUCCESS,Credit Card,Android,Electronics,Hyderabad,2026-08-23 00:42:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000172,cust_0172,merchant_upload,evt_000172,NONE
+540.0,SUCCESS,EMI,iOS,Luxury & Watches,Pune,2026-08-23 00:44:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000173,cust_0173,merchant_upload,evt_000173,NONE
+6519.0,SUCCESS,Debit Card,iOS,Fashion,Delhi,2026-08-23 00:46:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000174,cust_0174,merchant_upload,evt_000174,NONE
+607.0,SUCCESS,Net Banking,Android,Home,Delhi,2026-08-23 00:48:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000175,cust_0175,merchant_upload,evt_000175,NONE
+2260.0,SUCCESS,Debit Card,Android,Home,Bangalore,2026-08-23 00:50:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000176,cust_0176,merchant_upload,evt_000176,NONE
+1842.0,SUCCESS,UPI,iOS,Beauty,Mumbai,2026-08-23 00:52:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000177,cust_0177,merchant_upload,evt_000177,NONE
+1785.0,FAILED,Debit Card,Android,Electronics,Delhi,2026-08-23 00:54:30.850064,False,False,0,60,0.0,0.0,False,0,FAILED,,ord_000178,cust_0178,merchant_upload,evt_000178,NONE
+3465.0,SUCCESS,EMI,Android,Luxury & Watches,Bangalore,2026-08-23 00:56:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000179,cust_0179,merchant_upload,evt_000179,NONE
+1091.0,SUCCESS,EMI,Android,Electronics,Hyderabad,2026-08-23 00:58:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000180,cust_0180,merchant_upload,evt_000180,NONE
+8865.0,SUCCESS,Credit Card,Android,Electronics,Mumbai,2026-08-23 01:00:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000181,cust_0181,merchant_upload,evt_000181,NONE
+5592.0,FAILED,EMI,iOS,Home,Pune,2026-08-23 01:02:30.850064,False,False,0,60,0.0,0.0,False,0,FAILED,,ord_000182,cust_0182,merchant_upload,evt_000182,NONE
+3903.0,SUCCESS,EMI,Desktop,Beauty,Bangalore,2026-08-23 01:04:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000183,cust_0183,merchant_upload,evt_000183,NONE
+8154.0,SUCCESS,Credit Card,Desktop,Home,Bangalore,2026-08-23 01:06:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000184,cust_0184,merchant_upload,evt_000184,NONE
+580.0,SUCCESS,Credit Card,Desktop,Electronics,Pune,2026-08-23 01:08:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000185,cust_0185,merchant_upload,evt_000185,NONE
+5728.0,SUCCESS,UPI,Desktop,Home,Delhi,2026-08-23 01:10:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000186,cust_0186,merchant_upload,evt_000186,NONE
+14628.0,SUCCESS,EMI,Android,Home,Hyderabad,2026-08-23 01:12:30.850064,False,True,0,60,0.0,0.0,False,0,COMPLETED,,ord_000187,cust_0187,merchant_upload,evt_000187,REQUESTED
+5787.0,SUCCESS,Debit Card,iOS,Luxury & Watches,Bangalore,2026-08-23 01:14:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000188,cust_0188,merchant_upload,evt_000188,NONE
+2718.0,SUCCESS,EMI,Android,Electronics,Pune,2026-08-23 01:16:30.850064,False,True,0,60,0.0,0.0,False,0,COMPLETED,,ord_000189,cust_0189,merchant_upload,evt_000189,REQUESTED
+15254.0,SUCCESS,Net Banking,iOS,Fashion,Pune,2026-08-23 01:18:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000190,cust_0190,merchant_upload,evt_000190,NONE
+7728.0,SUCCESS,Credit Card,Desktop,Home,Mumbai,2026-08-23 01:20:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000191,cust_0191,merchant_upload,evt_000191,NONE
+13714.0,FAILED,Debit Card,Android,Luxury & Watches,Pune,2026-08-23 01:22:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000192,cust_0192,merchant_upload,evt_000192,NONE
+13678.0,SUCCESS,UPI,Android,Electronics,Hyderabad,2026-08-23 01:24:30.850064,False,True,0,60,0.0,0.0,False,0,COMPLETED,,ord_000193,cust_0193,merchant_upload,evt_000193,REQUESTED
+8433.0,SUCCESS,Net Banking,Desktop,Electronics,Hyderabad,2026-08-23 01:26:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000194,cust_0194,merchant_upload,evt_000194,NONE
+7838.0,SUCCESS,Net Banking,Desktop,Electronics,Bangalore,2026-08-23 01:28:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000195,cust_0195,merchant_upload,evt_000195,NONE
+6096.0,SUCCESS,Net Banking,iOS,Electronics,Mumbai,2026-08-23 01:30:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000196,cust_0196,merchant_upload,evt_000196,NONE
+14334.0,SUCCESS,Credit Card,Android,Beauty,Delhi,2026-08-23 01:32:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000197,cust_0197,merchant_upload,evt_000197,NONE
+4874.0,SUCCESS,EMI,Desktop,Home,Pune,2026-08-23 01:34:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000198,cust_0198,merchant_upload,evt_000198,NONE
+1589.0,SUCCESS,Credit Card,Android,Electronics,Pune,2026-08-23 01:36:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000199,cust_0199,merchant_upload,evt_000199,NONE
+821.0,SUCCESS,Credit Card,Desktop,Electronics,Delhi,2026-08-23 01:38:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000200,cust_0200,merchant_upload,evt_000200,NONE
+13085.0,SUCCESS,UPI,Desktop,Electronics,Hyderabad,2026-08-23 01:40:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000201,cust_0201,merchant_upload,evt_000201,NONE
+3901.0,SUCCESS,Debit Card,iOS,Luxury & Watches,Hyderabad,2026-08-23 01:42:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000202,cust_0202,merchant_upload,evt_000202,NONE
+944.0,SUCCESS,Net Banking,Android,Home,Bangalore,2026-08-23 01:44:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000203,cust_0203,merchant_upload,evt_000203,NONE
+5570.0,SUCCESS,Net Banking,Android,Luxury & Watches,Pune,2026-08-23 01:46:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000204,cust_0204,merchant_upload,evt_000204,NONE
+2876.0,SUCCESS,Debit Card,Desktop,Luxury & Watches,Bangalore,2026-08-23 01:48:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000205,cust_0205,merchant_upload,evt_000205,NONE
+501.0,SUCCESS,UPI,iOS,Home,Delhi,2026-08-23 01:50:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000206,cust_0206,merchant_upload,evt_000206,NONE
+14606.0,SUCCESS,UPI,Desktop,Beauty,Hyderabad,2026-08-23 01:52:30.850064,False,True,0,60,0.0,0.0,False,0,COMPLETED,,ord_000207,cust_0207,merchant_upload,evt_000207,REQUESTED
+16429.0,SUCCESS,Debit Card,Desktop,Beauty,Bangalore,2026-08-23 01:54:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000208,cust_0208,merchant_upload,evt_000208,NONE
+12710.0,FAILED,Credit Card,Desktop,Electronics,Delhi,2026-08-23 01:56:30.850064,False,False,0,60,0.0,0.0,False,0,FAILED,,ord_000209,cust_0209,merchant_upload,evt_000209,NONE
+17282.0,SUCCESS,Credit Card,Desktop,Fashion,Hyderabad,2026-08-23 01:58:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000210,cust_0210,merchant_upload,evt_000210,NONE
+16597.0,FAILED,Debit Card,Android,Fashion,Bangalore,2026-08-23 02:00:30.850064,False,True,0,60,0.0,0.0,False,0,FAILED,,ord_000211,cust_0211,merchant_upload,evt_000211,REQUESTED
+17580.0,SUCCESS,Net Banking,Desktop,Beauty,Delhi,2026-08-23 02:02:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000212,cust_0212,merchant_upload,evt_000212,NONE
+4700.0,SUCCESS,Debit Card,Desktop,Luxury & Watches,Delhi,2026-08-23 02:04:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000213,cust_0213,merchant_upload,evt_000213,NONE
+5600.0,SUCCESS,EMI,iOS,Home,Mumbai,2026-08-23 02:06:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000214,cust_0214,merchant_upload,evt_000214,NONE
+8242.0,FAILED,Net Banking,Desktop,Electronics,Bangalore,2026-08-23 02:08:30.850064,False,False,0,60,0.0,0.0,False,0,FAILED,,ord_000215,cust_0215,merchant_upload,evt_000215,NONE
+1260.0,SUCCESS,Net Banking,Desktop,Beauty,Mumbai,2026-08-23 02:10:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000216,cust_0216,merchant_upload,evt_000216,NONE
+3488.0,SUCCESS,Credit Card,Android,Fashion,Pune,2026-08-23 02:12:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000217,cust_0217,merchant_upload,evt_000217,NONE
+2731.0,SUCCESS,Net Banking,iOS,Home,Pune,2026-08-23 02:14:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000218,cust_0218,merchant_upload,evt_000218,NONE
+17699.0,SUCCESS,UPI,Desktop,Fashion,Bangalore,2026-08-23 02:16:30.850064,False,True,0,60,0.0,0.0,False,0,COMPLETED,,ord_000219,cust_0219,merchant_upload,evt_000219,REQUESTED
+1564.0,SUCCESS,Debit Card,Android,Home,Hyderabad,2026-08-23 02:18:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000220,cust_0220,merchant_upload,evt_000220,NONE
+10086.0,SUCCESS,Debit Card,iOS,Home,Delhi,2026-08-23 02:20:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000221,cust_0221,merchant_upload,evt_000221,NONE
+14180.0,SUCCESS,UPI,iOS,Electronics,Bangalore,2026-08-23 02:22:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000222,cust_0222,merchant_upload,evt_000222,NONE
+2274.0,SUCCESS,EMI,iOS,Luxury & Watches,Bangalore,2026-08-23 02:24:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000223,cust_0223,merchant_upload,evt_000223,NONE
+13016.0,FAILED,Net Banking,Desktop,Home,Hyderabad,2026-08-23 02:26:30.850064,False,False,0,60,0.0,0.0,False,0,FAILED,,ord_000224,cust_0224,merchant_upload,evt_000224,NONE
+11155.0,SUCCESS,EMI,Desktop,Home,Delhi,2026-08-23 02:28:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000225,cust_0225,merchant_upload,evt_000225,NONE
+5326.0,SUCCESS,Debit Card,iOS,Home,Delhi,2026-08-23 02:30:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000226,cust_0226,merchant_upload,evt_000226,NONE
+10128.0,SUCCESS,Net Banking,iOS,Fashion,Hyderabad,2026-08-23 02:32:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000227,cust_0227,merchant_upload,evt_000227,NONE
+5709.0,SUCCESS,Debit Card,Desktop,Home,Delhi,2026-08-23 02:34:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000228,cust_0228,merchant_upload,evt_000228,NONE
+5835.0,SUCCESS,UPI,Android,Electronics,Delhi,2026-08-23 02:36:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000229,cust_0229,merchant_upload,evt_000229,NONE
+2947.0,SUCCESS,Net Banking,iOS,Fashion,Bangalore,2026-08-23 02:38:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000230,cust_0230,merchant_upload,evt_000230,NONE
+5267.0,SUCCESS,Net Banking,Desktop,Fashion,Delhi,2026-08-23 02:40:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000231,cust_0231,merchant_upload,evt_000231,NONE
+2330.0,SUCCESS,EMI,Android,Electronics,Pune,2026-08-23 02:42:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000232,cust_0232,merchant_upload,evt_000232,NONE
+1143.0,SUCCESS,Debit Card,Android,Fashion,Bangalore,2026-08-23 02:44:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000233,cust_0233,merchant_upload,evt_000233,NONE
+5810.0,SUCCESS,Debit Card,iOS,Fashion,Bangalore,2026-08-23 02:46:30.850064,False,True,0,60,0.0,0.0,False,0,COMPLETED,,ord_000234,cust_0234,merchant_upload,evt_000234,REQUESTED
+838.0,SUCCESS,EMI,iOS,Home,Delhi,2026-08-23 02:48:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000235,cust_0235,merchant_upload,evt_000235,NONE
+2291.0,SUCCESS,UPI,Desktop,Home,Bangalore,2026-08-23 02:50:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000236,cust_0236,merchant_upload,evt_000236,NONE
+4182.0,SUCCESS,Credit Card,Android,Beauty,Hyderabad,2026-08-23 02:52:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000237,cust_0237,merchant_upload,evt_000237,NONE
+8658.0,SUCCESS,Debit Card,Desktop,Luxury & Watches,Bangalore,2026-08-23 02:54:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000238,cust_0238,merchant_upload,evt_000238,NONE
+12345.0,SUCCESS,Net Banking,iOS,Electronics,Pune,2026-08-23 02:56:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000239,cust_0239,merchant_upload,evt_000239,NONE
+11883.0,SUCCESS,Credit Card,iOS,Beauty,Delhi,2026-08-23 02:58:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000240,cust_0240,merchant_upload,evt_000240,NONE
+5676.0,SUCCESS,EMI,iOS,Luxury & Watches,Mumbai,2026-08-23 03:00:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000241,cust_0241,merchant_upload,evt_000241,NONE
+621.0,SUCCESS,UPI,Desktop,Beauty,Mumbai,2026-08-23 03:02:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000242,cust_0242,merchant_upload,evt_000242,NONE
+1688.0,SUCCESS,Debit Card,iOS,Fashion,Hyderabad,2026-08-23 03:04:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000243,cust_0243,merchant_upload,evt_000243,NONE
+6211.0,SUCCESS,Net Banking,iOS,Beauty,Bangalore,2026-08-23 03:06:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000244,cust_0244,merchant_upload,evt_000244,NONE
+15545.0,SUCCESS,EMI,Android,Fashion,Mumbai,2026-08-23 03:08:30.850064,False,True,0,60,0.0,0.0,False,0,COMPLETED,,ord_000245,cust_0245,merchant_upload,evt_000245,REQUESTED
+15510.0,SUCCESS,EMI,Android,Electronics,Mumbai,2026-08-23 03:10:30.850064,False,True,0,60,0.0,0.0,False,0,COMPLETED,,ord_000246,cust_0246,merchant_upload,evt_000246,REQUESTED
+1197.0,SUCCESS,EMI,Android,Electronics,Pune,2026-08-23 03:12:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000247,cust_0247,merchant_upload,evt_000247,NONE
+4452.0,SUCCESS,Net Banking,iOS,Beauty,Bangalore,2026-08-23 03:14:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000248,cust_0248,merchant_upload,evt_000248,NONE
+17170.0,SUCCESS,Credit Card,Desktop,Luxury & Watches,Mumbai,2026-08-23 03:16:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000249,cust_0249,merchant_upload,evt_000249,NONE
+10174.0,SUCCESS,Net Banking,Android,Electronics,Hyderabad,2026-08-23 03:18:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000250,cust_0250,merchant_upload,evt_000250,NONE
+13768.0,SUCCESS,UPI,iOS,Home,Hyderabad,2026-08-23 03:20:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000251,cust_0251,merchant_upload,evt_000251,NONE
+4283.0,SUCCESS,Net Banking,Android,Electronics,Bangalore,2026-08-23 03:22:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000252,cust_0252,merchant_upload,evt_000252,NONE
+4012.0,FAILED,Debit Card,Desktop,Electronics,Pune,2026-08-23 03:24:30.850064,False,False,0,60,0.0,0.0,False,0,FAILED,,ord_000253,cust_0253,merchant_upload,evt_000253,NONE
+1525.0,SUCCESS,EMI,iOS,Electronics,Pune,2026-08-23 03:26:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000254,cust_0254,merchant_upload,evt_000254,NONE
+5180.0,SUCCESS,Debit Card,Android,Home,Hyderabad,2026-08-23 03:28:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000255,cust_0255,merchant_upload,evt_000255,NONE
+1093.0,SUCCESS,Net Banking,Android,Beauty,Mumbai,2026-08-23 03:30:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000256,cust_0256,merchant_upload,evt_000256,NONE
+3730.0,SUCCESS,Debit Card,iOS,Home,Pune,2026-08-23 03:32:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000257,cust_0257,merchant_upload,evt_000257,NONE
+5833.0,SUCCESS,EMI,Desktop,Fashion,Hyderabad,2026-08-23 03:34:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000258,cust_0258,merchant_upload,evt_000258,NONE
+1680.0,SUCCESS,Credit Card,Desktop,Luxury & Watches,Delhi,2026-08-23 03:36:30.850064,False,True,0,60,0.0,0.0,False,0,COMPLETED,,ord_000259,cust_0259,merchant_upload,evt_000259,REQUESTED
+4333.0,FAILED,Debit Card,iOS,Fashion,Pune,2026-08-23 03:38:30.850064,False,False,0,60,0.0,0.0,False,0,FAILED,,ord_000260,cust_0260,merchant_upload,evt_000260,NONE
+5652.0,SUCCESS,Net Banking,Desktop,Home,Hyderabad,2026-08-23 03:40:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000261,cust_0261,merchant_upload,evt_000261,NONE
+14638.0,SUCCESS,Net Banking,Desktop,Home,Delhi,2026-08-23 03:42:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000262,cust_0262,merchant_upload,evt_000262,NONE
+5071.0,SUCCESS,Net Banking,Android,Electronics,Pune,2026-08-23 03:44:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000263,cust_0263,merchant_upload,evt_000263,NONE
+1046.0,SUCCESS,Debit Card,iOS,Home,Pune,2026-08-23 03:46:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000264,cust_0264,merchant_upload,evt_000264,NONE
+13915.0,SUCCESS,Net Banking,Desktop,Electronics,Delhi,2026-08-23 03:48:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000265,cust_0265,merchant_upload,evt_000265,NONE
+8974.0,SUCCESS,Credit Card,Android,Fashion,Pune,2026-08-23 03:50:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000266,cust_0266,merchant_upload,evt_000266,NONE
+515.0,FAILED,Debit Card,Android,Electronics,Delhi,2026-08-23 03:52:30.850064,False,True,0,60,0.0,0.0,False,0,FAILED,,ord_000267,cust_0267,merchant_upload,evt_000267,REQUESTED
+11295.0,SUCCESS,Credit Card,Desktop,Fashion,Pune,2026-08-23 03:54:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000268,cust_0268,merchant_upload,evt_000268,NONE
+15134.0,SUCCESS,Credit Card,iOS,Beauty,Bangalore,2026-08-23 03:56:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000269,cust_0269,merchant_upload,evt_000269,NONE
+1400.0,SUCCESS,Net Banking,Android,Fashion,Delhi,2026-08-23 03:58:30.850064,False,True,0,60,0.0,0.0,False,0,COMPLETED,,ord_000270,cust_0270,merchant_upload,evt_000270,REQUESTED
+14254.0,SUCCESS,Net Banking,Android,Home,Pune,2026-08-23 04:00:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000271,cust_0271,merchant_upload,evt_000271,NONE
+13189.0,SUCCESS,Net Banking,Android,Fashion,Pune,2026-08-23 04:02:30.850064,False,True,0,60,0.0,0.0,False,0,COMPLETED,,ord_000272,cust_0272,merchant_upload,evt_000272,REQUESTED
+7511.0,SUCCESS,EMI,Android,Home,Hyderabad,2026-08-23 04:04:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000273,cust_0273,merchant_upload,evt_000273,NONE
+1751.0,FAILED,Debit Card,iOS,Luxury & Watches,Delhi,2026-08-23 04:06:30.850064,False,False,0,60,0.0,0.0,False,0,FAILED,,ord_000274,cust_0274,merchant_upload,evt_000274,NONE
+17564.0,SUCCESS,EMI,Android,Home,Hyderabad,2026-08-23 04:08:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000275,cust_0275,merchant_upload,evt_000275,NONE
+5437.0,SUCCESS,Credit Card,Desktop,Home,Bangalore,2026-08-23 04:10:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000276,cust_0276,merchant_upload,evt_000276,NONE
+5971.0,SUCCESS,Net Banking,Android,Luxury & Watches,Pune,2026-08-23 04:12:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000277,cust_0277,merchant_upload,evt_000277,NONE
+2880.0,SUCCESS,UPI,Desktop,Home,Pune,2026-08-23 04:14:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000278,cust_0278,merchant_upload,evt_000278,NONE
+16794.0,SUCCESS,EMI,iOS,Luxury & Watches,Delhi,2026-08-23 04:16:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000279,cust_0279,merchant_upload,evt_000279,NONE
+11708.0,SUCCESS,Credit Card,Android,Home,Delhi,2026-08-23 04:18:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000280,cust_0280,merchant_upload,evt_000280,NONE
+11318.0,SUCCESS,Credit Card,Desktop,Beauty,Bangalore,2026-08-23 04:20:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000281,cust_0281,merchant_upload,evt_000281,NONE
+2707.0,SUCCESS,Credit Card,iOS,Fashion,Hyderabad,2026-08-23 04:22:30.850064,False,True,0,60,0.0,0.0,False,0,COMPLETED,,ord_000282,cust_0282,merchant_upload,evt_000282,REQUESTED
+1087.0,SUCCESS,Net Banking,Android,Fashion,Pune,2026-08-23 04:24:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000283,cust_0283,merchant_upload,evt_000283,NONE
+1193.0,SUCCESS,Net Banking,Android,Fashion,Delhi,2026-08-23 04:26:30.850064,False,True,0,60,0.0,0.0,False,0,COMPLETED,,ord_000284,cust_0284,merchant_upload,evt_000284,REQUESTED
+4020.0,FAILED,EMI,iOS,Beauty,Mumbai,2026-08-23 04:28:30.850064,False,False,0,60,0.0,0.0,False,0,FAILED,,ord_000285,cust_0285,merchant_upload,evt_000285,NONE
+17282.0,SUCCESS,Net Banking,iOS,Home,Bangalore,2026-08-23 04:30:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000286,cust_0286,merchant_upload,evt_000286,NONE
+7209.0,SUCCESS,UPI,Android,Electronics,Mumbai,2026-08-23 04:32:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000287,cust_0287,merchant_upload,evt_000287,NONE
+6026.0,SUCCESS,Net Banking,iOS,Fashion,Mumbai,2026-08-23 04:34:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000288,cust_0288,merchant_upload,evt_000288,NONE
+15012.0,SUCCESS,Credit Card,Android,Beauty,Bangalore,2026-08-23 04:36:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000289,cust_0289,merchant_upload,evt_000289,NONE
+8882.0,SUCCESS,EMI,Android,Beauty,Bangalore,2026-08-23 04:38:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000290,cust_0290,merchant_upload,evt_000290,NONE
+2251.0,SUCCESS,Credit Card,Android,Electronics,Delhi,2026-08-23 04:40:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000291,cust_0291,merchant_upload,evt_000291,NONE
+2583.0,SUCCESS,Debit Card,Desktop,Electronics,Mumbai,2026-08-23 04:42:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000292,cust_0292,merchant_upload,evt_000292,NONE
+2891.0,FAILED,Net Banking,iOS,Home,Pune,2026-08-23 04:44:30.850064,False,False,0,60,0.0,0.0,False,0,FAILED,,ord_000293,cust_0293,merchant_upload,evt_000293,NONE
+11101.0,SUCCESS,UPI,Android,Luxury & Watches,Delhi,2026-08-23 04:46:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000294,cust_0294,merchant_upload,evt_000294,NONE
+1849.0,SUCCESS,Credit Card,iOS,Luxury & Watches,Hyderabad,2026-08-23 04:48:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000295,cust_0295,merchant_upload,evt_000295,NONE
+10337.0,FAILED,Credit Card,Desktop,Beauty,Delhi,2026-08-23 04:50:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000296,cust_0296,merchant_upload,evt_000296,NONE
+4018.0,SUCCESS,Credit Card,Android,Beauty,Mumbai,2026-08-23 04:52:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000297,cust_0297,merchant_upload,evt_000297,NONE
+1994.0,SUCCESS,UPI,Desktop,Electronics,Bangalore,2026-08-23 04:54:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000298,cust_0298,merchant_upload,evt_000298,NONE
+8992.0,SUCCESS,Debit Card,Android,Fashion,Hyderabad,2026-08-23 04:56:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000299,cust_0299,merchant_upload,evt_000299,NONE
+2295.0,SUCCESS,Net Banking,Desktop,Home,Mumbai,2026-08-23 04:58:30.850064,False,True,0,60,0.0,0.0,False,0,COMPLETED,,ord_000300,cust_0300,merchant_upload,evt_000300,REQUESTED
+5126.0,SUCCESS,Credit Card,Android,Home,Delhi,2026-08-23 05:00:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000301,cust_0301,merchant_upload,evt_000301,NONE
+13456.0,SUCCESS,Debit Card,iOS,Beauty,Bangalore,2026-08-23 05:02:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000302,cust_0302,merchant_upload,evt_000302,NONE
+3059.0,SUCCESS,Net Banking,Android,Luxury & Watches,Mumbai,2026-08-23 05:04:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000303,cust_0303,merchant_upload,evt_000303,NONE
+10610.0,SUCCESS,EMI,iOS,Luxury & Watches,Delhi,2026-08-23 05:06:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000304,cust_0304,merchant_upload,evt_000304,NONE
+2701.0,SUCCESS,Net Banking,Desktop,Beauty,Hyderabad,2026-08-23 05:08:30.850064,False,True,0,60,0.0,0.0,False,0,COMPLETED,,ord_000305,cust_0305,merchant_upload,evt_000305,REQUESTED
+4896.0,SUCCESS,EMI,Android,Luxury & Watches,Delhi,2026-08-23 05:10:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000306,cust_0306,merchant_upload,evt_000306,NONE
+8062.0,SUCCESS,UPI,Desktop,Home,Bangalore,2026-08-23 05:12:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000307,cust_0307,merchant_upload,evt_000307,NONE
+1318.0,SUCCESS,UPI,Android,Beauty,Delhi,2026-08-23 05:14:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000308,cust_0308,merchant_upload,evt_000308,NONE
+4950.0,SUCCESS,Net Banking,Android,Beauty,Mumbai,2026-08-23 05:16:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000309,cust_0309,merchant_upload,evt_000309,NONE
+1892.0,SUCCESS,UPI,Android,Luxury & Watches,Pune,2026-08-23 05:18:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000310,cust_0310,merchant_upload,evt_000310,NONE
+524.0,SUCCESS,Debit Card,Desktop,Electronics,Pune,2026-08-23 05:20:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000311,cust_0311,merchant_upload,evt_000311,NONE
+6206.0,SUCCESS,UPI,iOS,Electronics,Mumbai,2026-08-23 05:22:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000312,cust_0312,merchant_upload,evt_000312,NONE
+1678.0,SUCCESS,Debit Card,iOS,Electronics,Hyderabad,2026-08-23 05:24:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000313,cust_0313,merchant_upload,evt_000313,NONE
+687.0,SUCCESS,UPI,Desktop,Electronics,Pune,2026-08-23 05:26:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000314,cust_0314,merchant_upload,evt_000314,NONE
+13940.0,FAILED,Debit Card,Desktop,Electronics,Pune,2026-08-23 05:28:30.850064,False,False,0,60,0.0,0.0,False,0,FAILED,,ord_000315,cust_0315,merchant_upload,evt_000315,NONE
+2471.0,SUCCESS,Debit Card,Desktop,Home,Bangalore,2026-08-23 05:30:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000316,cust_0316,merchant_upload,evt_000316,NONE
+16398.0,SUCCESS,Debit Card,Desktop,Fashion,Pune,2026-08-23 05:32:30.850064,False,True,0,60,0.0,0.0,False,0,COMPLETED,,ord_000317,cust_0317,merchant_upload,evt_000317,REQUESTED
+3408.0,SUCCESS,Net Banking,Android,Beauty,Pune,2026-08-23 05:34:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000318,cust_0318,merchant_upload,evt_000318,NONE
+7527.0,SUCCESS,Credit Card,Android,Electronics,Bangalore,2026-08-23 05:36:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000319,cust_0319,merchant_upload,evt_000319,NONE
+1765.0,SUCCESS,Net Banking,iOS,Home,Mumbai,2026-08-23 05:38:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000320,cust_0320,merchant_upload,evt_000320,NONE
+11879.0,SUCCESS,Credit Card,Desktop,Fashion,Bangalore,2026-08-23 05:40:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000321,cust_0321,merchant_upload,evt_000321,NONE
+10081.0,SUCCESS,Debit Card,Desktop,Fashion,Pune,2026-08-23 05:42:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000322,cust_0322,merchant_upload,evt_000322,NONE
+15655.0,SUCCESS,Debit Card,iOS,Luxury & Watches,Delhi,2026-08-23 05:44:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000323,cust_0323,merchant_upload,evt_000323,NONE
+5508.0,SUCCESS,Credit Card,Desktop,Home,Hyderabad,2026-08-23 05:46:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000324,cust_0324,merchant_upload,evt_000324,NONE
+1965.0,SUCCESS,Credit Card,Android,Beauty,Delhi,2026-08-23 05:48:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000325,cust_0325,merchant_upload,evt_000325,NONE
+6273.0,SUCCESS,UPI,iOS,Electronics,Pune,2026-08-23 05:50:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000326,cust_0326,merchant_upload,evt_000326,NONE
+17646.0,SUCCESS,Net Banking,Desktop,Luxury & Watches,Pune,2026-08-23 05:52:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000327,cust_0327,merchant_upload,evt_000327,NONE
+4066.0,SUCCESS,EMI,iOS,Luxury & Watches,Mumbai,2026-08-23 05:54:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000328,cust_0328,merchant_upload,evt_000328,NONE
+2122.0,SUCCESS,Credit Card,iOS,Luxury & Watches,Pune,2026-08-23 05:56:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000329,cust_0329,merchant_upload,evt_000329,NONE
+826.0,SUCCESS,EMI,iOS,Fashion,Mumbai,2026-08-23 05:58:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000330,cust_0330,merchant_upload,evt_000330,NONE
+656.0,SUCCESS,Debit Card,Desktop,Fashion,Hyderabad,2026-08-23 06:00:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000331,cust_0331,merchant_upload,evt_000331,NONE
+9243.0,SUCCESS,Debit Card,Android,Luxury & Watches,Bangalore,2026-08-23 06:02:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000332,cust_0332,merchant_upload,evt_000332,NONE
+3974.0,SUCCESS,EMI,Android,Fashion,Delhi,2026-08-23 06:04:30.850064,False,True,0,60,0.0,0.0,False,0,COMPLETED,,ord_000333,cust_0333,merchant_upload,evt_000333,REQUESTED
+2592.0,SUCCESS,Net Banking,iOS,Electronics,Delhi,2026-08-23 06:06:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000334,cust_0334,merchant_upload,evt_000334,NONE
+2313.0,SUCCESS,Credit Card,iOS,Electronics,Hyderabad,2026-08-23 06:08:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000335,cust_0335,merchant_upload,evt_000335,NONE
+5629.0,SUCCESS,Net Banking,Android,Fashion,Bangalore,2026-08-23 06:10:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000336,cust_0336,merchant_upload,evt_000336,NONE
+6614.0,SUCCESS,Credit Card,Android,Electronics,Hyderabad,2026-08-23 06:12:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000337,cust_0337,merchant_upload,evt_000337,NONE
+6788.0,SUCCESS,Net Banking,iOS,Luxury & Watches,Bangalore,2026-08-23 06:14:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000338,cust_0338,merchant_upload,evt_000338,NONE
+3126.0,SUCCESS,Credit Card,Desktop,Beauty,Hyderabad,2026-08-23 06:16:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000339,cust_0339,merchant_upload,evt_000339,NONE
+14464.0,SUCCESS,EMI,Android,Fashion,Pune,2026-08-23 06:18:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000340,cust_0340,merchant_upload,evt_000340,NONE
+12097.0,FAILED,Debit Card,Android,Home,Hyderabad,2026-08-23 06:20:30.850064,False,False,0,60,0.0,0.0,False,0,FAILED,,ord_000341,cust_0341,merchant_upload,evt_000341,NONE
+14015.0,FAILED,Debit Card,Android,Luxury & Watches,Pune,2026-08-23 06:22:30.850064,False,True,0,60,0.0,0.0,False,0,FAILED,,ord_000342,cust_0342,merchant_upload,evt_000342,REQUESTED
+11443.0,SUCCESS,UPI,Android,Home,Bangalore,2026-08-23 06:24:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000343,cust_0343,merchant_upload,evt_000343,NONE
+7466.0,FAILED,EMI,Android,Beauty,Delhi,2026-08-23 06:26:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000344,cust_0344,merchant_upload,evt_000344,NONE
+4817.0,SUCCESS,EMI,iOS,Fashion,Pune,2026-08-23 06:28:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000345,cust_0345,merchant_upload,evt_000345,NONE
+14425.0,SUCCESS,Credit Card,Android,Luxury & Watches,Bangalore,2026-08-23 06:30:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000346,cust_0346,merchant_upload,evt_000346,NONE
+697.0,SUCCESS,UPI,Android,Beauty,Bangalore,2026-08-23 06:32:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000347,cust_0347,merchant_upload,evt_000347,NONE
+6347.0,SUCCESS,UPI,iOS,Beauty,Bangalore,2026-08-23 06:34:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000348,cust_0348,merchant_upload,evt_000348,NONE
+3864.0,SUCCESS,Net Banking,Desktop,Home,Hyderabad,2026-08-23 06:36:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000349,cust_0349,merchant_upload,evt_000349,NONE
+3384.0,SUCCESS,EMI,Desktop,Home,Hyderabad,2026-08-23 06:38:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000350,cust_0350,merchant_upload,evt_000350,NONE
+3946.0,SUCCESS,UPI,Desktop,Home,Hyderabad,2026-08-23 06:40:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000351,cust_0351,merchant_upload,evt_000351,NONE
+5560.0,FAILED,EMI,Desktop,Fashion,Mumbai,2026-08-23 06:42:30.850064,False,False,0,60,0.0,0.0,False,0,FAILED,,ord_000352,cust_0352,merchant_upload,evt_000352,NONE
+3199.0,FAILED,EMI,iOS,Fashion,Delhi,2026-08-23 06:44:30.850064,False,False,0,60,0.0,0.0,False,0,FAILED,,ord_000353,cust_0353,merchant_upload,evt_000353,NONE
+12478.0,SUCCESS,Debit Card,Desktop,Home,Delhi,2026-08-23 06:46:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000354,cust_0354,merchant_upload,evt_000354,NONE
+1570.0,SUCCESS,Net Banking,Desktop,Beauty,Mumbai,2026-08-23 06:48:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000355,cust_0355,merchant_upload,evt_000355,NONE
+4472.0,SUCCESS,Net Banking,Desktop,Luxury & Watches,Hyderabad,2026-08-23 06:50:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000356,cust_0356,merchant_upload,evt_000356,NONE
+11231.0,SUCCESS,Net Banking,Desktop,Fashion,Mumbai,2026-08-23 06:52:30.850064,False,True,0,60,0.0,0.0,False,0,COMPLETED,,ord_000357,cust_0357,merchant_upload,evt_000357,REQUESTED
+2053.0,SUCCESS,EMI,Desktop,Luxury & Watches,Delhi,2026-08-23 06:54:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000358,cust_0358,merchant_upload,evt_000358,NONE
+6602.0,SUCCESS,UPI,Desktop,Fashion,Mumbai,2026-08-23 06:56:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000359,cust_0359,merchant_upload,evt_000359,NONE
+670.0,SUCCESS,Debit Card,Android,Electronics,Hyderabad,2026-08-23 06:58:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000360,cust_0360,merchant_upload,evt_000360,NONE
+6845.0,SUCCESS,UPI,Android,Home,Bangalore,2026-08-23 07:00:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000361,cust_0361,merchant_upload,evt_000361,NONE
+5082.0,SUCCESS,UPI,Desktop,Fashion,Hyderabad,2026-08-23 07:02:30.850064,False,True,0,60,0.0,0.0,False,0,COMPLETED,,ord_000362,cust_0362,merchant_upload,evt_000362,REQUESTED
+968.0,SUCCESS,Credit Card,Desktop,Fashion,Delhi,2026-08-23 07:04:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000363,cust_0363,merchant_upload,evt_000363,NONE
+2895.0,SUCCESS,Debit Card,Desktop,Home,Delhi,2026-08-23 07:06:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000364,cust_0364,merchant_upload,evt_000364,NONE
+16692.0,SUCCESS,EMI,iOS,Fashion,Hyderabad,2026-08-23 07:08:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000365,cust_0365,merchant_upload,evt_000365,NONE
+4267.0,SUCCESS,UPI,iOS,Beauty,Delhi,2026-08-23 07:10:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000366,cust_0366,merchant_upload,evt_000366,NONE
+15825.0,SUCCESS,Debit Card,iOS,Electronics,Delhi,2026-08-23 07:12:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000367,cust_0367,merchant_upload,evt_000367,NONE
+2070.0,SUCCESS,Net Banking,Android,Home,Delhi,2026-08-23 07:14:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000368,cust_0368,merchant_upload,evt_000368,NONE
+4760.0,SUCCESS,Debit Card,Android,Electronics,Mumbai,2026-08-23 07:16:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000369,cust_0369,merchant_upload,evt_000369,NONE
+6807.0,SUCCESS,Credit Card,iOS,Electronics,Delhi,2026-08-23 07:18:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000370,cust_0370,merchant_upload,evt_000370,NONE
+5297.0,SUCCESS,EMI,Desktop,Home,Delhi,2026-08-23 07:20:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000371,cust_0371,merchant_upload,evt_000371,NONE
+9863.0,SUCCESS,Credit Card,Android,Electronics,Bangalore,2026-08-23 07:22:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000372,cust_0372,merchant_upload,evt_000372,NONE
+10610.0,SUCCESS,Debit Card,iOS,Electronics,Bangalore,2026-08-23 07:24:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000373,cust_0373,merchant_upload,evt_000373,NONE
+734.0,SUCCESS,Credit Card,Desktop,Beauty,Mumbai,2026-08-23 07:26:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000374,cust_0374,merchant_upload,evt_000374,NONE
+1150.0,SUCCESS,Credit Card,Desktop,Luxury & Watches,Mumbai,2026-08-23 07:28:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000375,cust_0375,merchant_upload,evt_000375,NONE
+4296.0,SUCCESS,Debit Card,Desktop,Beauty,Delhi,2026-08-23 07:30:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000376,cust_0376,merchant_upload,evt_000376,NONE
+3872.0,SUCCESS,EMI,Desktop,Fashion,Pune,2026-08-23 07:32:30.850064,False,True,0,60,0.0,0.0,False,0,COMPLETED,,ord_000377,cust_0377,merchant_upload,evt_000377,REQUESTED
+1391.0,SUCCESS,EMI,Android,Electronics,Bangalore,2026-08-23 07:34:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000378,cust_0378,merchant_upload,evt_000378,NONE
+14232.0,SUCCESS,UPI,Desktop,Beauty,Bangalore,2026-08-23 07:36:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000379,cust_0379,merchant_upload,evt_000379,NONE
+2724.0,SUCCESS,UPI,iOS,Beauty,Bangalore,2026-08-23 07:38:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000380,cust_0380,merchant_upload,evt_000380,NONE
+13126.0,FAILED,Credit Card,iOS,Beauty,Pune,2026-08-23 07:40:30.850064,False,False,0,60,0.0,0.0,False,0,FAILED,,ord_000381,cust_0381,merchant_upload,evt_000381,NONE
+14856.0,SUCCESS,Debit Card,Android,Beauty,Delhi,2026-08-23 07:42:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000382,cust_0382,merchant_upload,evt_000382,NONE
+1346.0,SUCCESS,Net Banking,Desktop,Fashion,Pune,2026-08-23 07:44:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000383,cust_0383,merchant_upload,evt_000383,NONE
+3277.0,FAILED,EMI,Android,Fashion,Bangalore,2026-08-23 07:46:30.850064,False,True,0,60,0.0,0.0,False,0,FAILED,,ord_000384,cust_0384,merchant_upload,evt_000384,REQUESTED
+675.0,SUCCESS,UPI,Android,Beauty,Bangalore,2026-08-23 07:48:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000385,cust_0385,merchant_upload,evt_000385,NONE
+8627.0,SUCCESS,UPI,iOS,Beauty,Pune,2026-08-23 07:50:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000386,cust_0386,merchant_upload,evt_000386,NONE
+1312.0,SUCCESS,EMI,Desktop,Luxury & Watches,Bangalore,2026-08-23 07:52:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000387,cust_0387,merchant_upload,evt_000387,NONE
+6472.0,SUCCESS,UPI,Android,Home,Mumbai,2026-08-23 07:54:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000388,cust_0388,merchant_upload,evt_000388,NONE
+1658.0,SUCCESS,Credit Card,Android,Electronics,Bangalore,2026-08-23 07:56:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000389,cust_0389,merchant_upload,evt_000389,NONE
+2496.0,SUCCESS,Credit Card,iOS,Electronics,Mumbai,2026-08-23 07:58:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000390,cust_0390,merchant_upload,evt_000390,NONE
+6214.0,SUCCESS,Debit Card,Desktop,Fashion,Pune,2026-08-23 08:00:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000391,cust_0391,merchant_upload,evt_000391,NONE
+1005.0,SUCCESS,Net Banking,iOS,Luxury & Watches,Bangalore,2026-08-23 08:02:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000392,cust_0392,merchant_upload,evt_000392,NONE
+6657.0,SUCCESS,Net Banking,iOS,Home,Pune,2026-08-23 08:04:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000393,cust_0393,merchant_upload,evt_000393,NONE
+15293.0,SUCCESS,UPI,Android,Electronics,Mumbai,2026-08-23 08:06:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000394,cust_0394,merchant_upload,evt_000394,NONE
+17612.0,SUCCESS,Net Banking,Android,Beauty,Bangalore,2026-08-23 08:08:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000395,cust_0395,merchant_upload,evt_000395,NONE
+9855.0,SUCCESS,Debit Card,Desktop,Electronics,Delhi,2026-08-23 08:10:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000396,cust_0396,merchant_upload,evt_000396,NONE
+1127.0,SUCCESS,Debit Card,iOS,Electronics,Delhi,2026-08-23 08:12:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000397,cust_0397,merchant_upload,evt_000397,NONE
+2488.0,SUCCESS,Net Banking,Android,Electronics,Delhi,2026-08-23 08:14:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000398,cust_0398,merchant_upload,evt_000398,NONE
+3096.0,SUCCESS,Net Banking,Desktop,Beauty,Delhi,2026-08-23 08:16:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000399,cust_0399,merchant_upload,evt_000399,NONE
+4121.0,SUCCESS,Credit Card,iOS,Beauty,Hyderabad,2026-08-23 08:18:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000400,cust_0400,merchant_upload,evt_000400,NONE
+2387.0,SUCCESS,Debit Card,iOS,Home,Pune,2026-08-23 08:20:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000401,cust_0401,merchant_upload,evt_000401,NONE
+1515.0,SUCCESS,Credit Card,Android,Fashion,Mumbai,2026-08-23 08:22:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000402,cust_0402,merchant_upload,evt_000402,NONE
+15812.0,FAILED,EMI,Desktop,Beauty,Delhi,2026-08-23 08:24:30.850064,False,False,0,60,0.0,0.0,False,0,FAILED,,ord_000403,cust_0403,merchant_upload,evt_000403,NONE
+5117.0,SUCCESS,EMI,Desktop,Electronics,Bangalore,2026-08-23 08:26:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000404,cust_0404,merchant_upload,evt_000404,NONE
+12434.0,SUCCESS,Credit Card,Android,Beauty,Mumbai,2026-08-23 08:28:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000405,cust_0405,merchant_upload,evt_000405,NONE
+5005.0,SUCCESS,EMI,iOS,Electronics,Bangalore,2026-08-23 08:30:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000406,cust_0406,merchant_upload,evt_000406,NONE
+8324.0,SUCCESS,EMI,Android,Luxury & Watches,Delhi,2026-08-23 08:32:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000407,cust_0407,merchant_upload,evt_000407,NONE
+2479.0,SUCCESS,Net Banking,Android,Luxury & Watches,Bangalore,2026-08-23 08:34:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000408,cust_0408,merchant_upload,evt_000408,NONE
+4342.0,SUCCESS,Debit Card,iOS,Beauty,Pune,2026-08-23 08:36:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000409,cust_0409,merchant_upload,evt_000409,NONE
+4173.0,SUCCESS,Debit Card,iOS,Luxury & Watches,Mumbai,2026-08-23 08:38:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000410,cust_0410,merchant_upload,evt_000410,NONE
+12552.0,SUCCESS,Credit Card,Desktop,Beauty,Delhi,2026-08-23 08:40:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000411,cust_0411,merchant_upload,evt_000411,NONE
+3605.0,SUCCESS,Debit Card,Desktop,Home,Bangalore,2026-08-23 08:42:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000412,cust_0412,merchant_upload,evt_000412,NONE
+10006.0,SUCCESS,EMI,Desktop,Home,Mumbai,2026-08-23 08:44:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000413,cust_0413,merchant_upload,evt_000413,NONE
+849.0,SUCCESS,EMI,Android,Fashion,Delhi,2026-08-23 08:46:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000414,cust_0414,merchant_upload,evt_000414,NONE
+3158.0,SUCCESS,Net Banking,Desktop,Beauty,Delhi,2026-08-23 08:48:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000415,cust_0415,merchant_upload,evt_000415,NONE
+4058.0,SUCCESS,EMI,iOS,Luxury & Watches,Pune,2026-08-23 08:50:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000416,cust_0416,merchant_upload,evt_000416,NONE
+1450.0,SUCCESS,UPI,Desktop,Home,Delhi,2026-08-23 08:52:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000417,cust_0417,merchant_upload,evt_000417,NONE
+15467.0,FAILED,Credit Card,iOS,Fashion,Bangalore,2026-08-23 08:54:30.850064,False,False,0,60,0.0,0.0,False,0,FAILED,,ord_000418,cust_0418,merchant_upload,evt_000418,NONE
+1443.0,FAILED,Debit Card,Android,Home,Hyderabad,2026-08-23 08:56:30.850064,False,False,0,60,0.0,0.0,False,0,FAILED,,ord_000419,cust_0419,merchant_upload,evt_000419,NONE
+6978.0,SUCCESS,Credit Card,Desktop,Fashion,Delhi,2026-08-23 08:58:30.850064,False,True,0,60,0.0,0.0,False,0,COMPLETED,,ord_000420,cust_0420,merchant_upload,evt_000420,REQUESTED
+1087.0,SUCCESS,Credit Card,Android,Electronics,Pune,2026-08-23 09:00:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000421,cust_0421,merchant_upload,evt_000421,NONE
+14973.0,SUCCESS,Net Banking,Android,Electronics,Delhi,2026-08-23 09:02:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000422,cust_0422,merchant_upload,evt_000422,NONE
+1403.0,SUCCESS,Net Banking,iOS,Beauty,Pune,2026-08-23 09:04:30.850064,False,True,0,60,0.0,0.0,False,0,COMPLETED,,ord_000423,cust_0423,merchant_upload,evt_000423,REQUESTED
+17741.0,SUCCESS,Credit Card,iOS,Fashion,Mumbai,2026-08-23 09:06:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000424,cust_0424,merchant_upload,evt_000424,NONE
+7855.0,SUCCESS,Net Banking,Desktop,Electronics,Bangalore,2026-08-23 09:08:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000425,cust_0425,merchant_upload,evt_000425,NONE
+14041.0,SUCCESS,Credit Card,iOS,Luxury & Watches,Mumbai,2026-08-23 09:10:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000426,cust_0426,merchant_upload,evt_000426,NONE
+4183.0,SUCCESS,UPI,Desktop,Fashion,Mumbai,2026-08-23 09:12:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000427,cust_0427,merchant_upload,evt_000427,NONE
+4896.0,SUCCESS,UPI,Desktop,Home,Bangalore,2026-08-23 09:14:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000428,cust_0428,merchant_upload,evt_000428,NONE
+1085.0,SUCCESS,Debit Card,Android,Fashion,Pune,2026-08-23 09:16:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000429,cust_0429,merchant_upload,evt_000429,NONE
+17967.0,SUCCESS,UPI,Android,Beauty,Bangalore,2026-08-23 09:18:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000430,cust_0430,merchant_upload,evt_000430,NONE
+5828.0,SUCCESS,UPI,iOS,Luxury & Watches,Mumbai,2026-08-23 09:20:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000431,cust_0431,merchant_upload,evt_000431,NONE
+11922.0,SUCCESS,EMI,Android,Luxury & Watches,Bangalore,2026-08-23 09:22:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000432,cust_0432,merchant_upload,evt_000432,NONE
+17276.0,SUCCESS,EMI,iOS,Luxury & Watches,Bangalore,2026-08-23 09:24:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000433,cust_0433,merchant_upload,evt_000433,NONE
+3787.0,FAILED,Debit Card,Android,Electronics,Bangalore,2026-08-23 09:26:30.850064,False,False,0,60,0.0,0.0,False,0,FAILED,,ord_000434,cust_0434,merchant_upload,evt_000434,NONE
+5662.0,SUCCESS,EMI,iOS,Beauty,Mumbai,2026-08-23 09:28:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000435,cust_0435,merchant_upload,evt_000435,NONE
+5343.0,SUCCESS,UPI,Desktop,Home,Bangalore,2026-08-23 09:30:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000436,cust_0436,merchant_upload,evt_000436,NONE
+1210.0,SUCCESS,Net Banking,Desktop,Beauty,Delhi,2026-08-23 09:32:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000437,cust_0437,merchant_upload,evt_000437,NONE
+6796.0,SUCCESS,Credit Card,Android,Luxury & Watches,Pune,2026-08-23 09:34:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000438,cust_0438,merchant_upload,evt_000438,NONE
+1947.0,SUCCESS,Debit Card,Android,Fashion,Mumbai,2026-08-23 09:36:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000439,cust_0439,merchant_upload,evt_000439,NONE
+1775.0,SUCCESS,Credit Card,Desktop,Home,Pune,2026-08-23 09:38:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000440,cust_0440,merchant_upload,evt_000440,NONE
+13048.0,SUCCESS,Debit Card,iOS,Home,Mumbai,2026-08-23 09:40:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000441,cust_0441,merchant_upload,evt_000441,NONE
+8397.0,SUCCESS,Net Banking,Desktop,Home,Delhi,2026-08-23 09:42:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000442,cust_0442,merchant_upload,evt_000442,NONE
+16573.0,SUCCESS,Credit Card,Desktop,Electronics,Bangalore,2026-08-23 09:44:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000443,cust_0443,merchant_upload,evt_000443,NONE
+5468.0,SUCCESS,UPI,Android,Fashion,Hyderabad,2026-08-23 09:46:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000444,cust_0444,merchant_upload,evt_000444,NONE
+8849.0,SUCCESS,UPI,Desktop,Fashion,Mumbai,2026-08-23 09:48:30.850064,False,True,0,60,0.0,0.0,False,0,COMPLETED,,ord_000445,cust_0445,merchant_upload,evt_000445,REQUESTED
+1196.0,SUCCESS,Credit Card,Android,Beauty,Pune,2026-08-23 09:50:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000446,cust_0446,merchant_upload,evt_000446,NONE
+1991.0,SUCCESS,UPI,iOS,Home,Mumbai,2026-08-23 09:52:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000447,cust_0447,merchant_upload,evt_000447,NONE
+1143.0,FAILED,Net Banking,Android,Fashion,Mumbai,2026-08-23 09:54:30.850064,False,True,0,60,0.0,0.0,False,0,FAILED,,ord_000448,cust_0448,merchant_upload,evt_000448,REQUESTED
+7777.0,SUCCESS,Net Banking,iOS,Fashion,Pune,2026-08-23 09:56:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000449,cust_0449,merchant_upload,evt_000449,NONE
+1472.0,SUCCESS,EMI,iOS,Home,Mumbai,2026-08-23 09:58:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000450,cust_0450,merchant_upload,evt_000450,NONE
+3084.0,FAILED,UPI,Android,Electronics,Bangalore,2026-08-23 10:00:30.850064,False,False,0,60,0.0,0.0,False,0,FAILED,,ord_000451,cust_0451,merchant_upload,evt_000451,NONE
+14086.0,FAILED,EMI,iOS,Beauty,Pune,2026-08-23 10:02:30.850064,False,False,0,60,0.0,0.0,False,0,FAILED,,ord_000452,cust_0452,merchant_upload,evt_000452,NONE
+5368.0,SUCCESS,Debit Card,Android,Luxury & Watches,Delhi,2026-08-23 10:04:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000453,cust_0453,merchant_upload,evt_000453,NONE
+14052.0,SUCCESS,Credit Card,Desktop,Beauty,Pune,2026-08-23 10:06:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000454,cust_0454,merchant_upload,evt_000454,NONE
+695.0,SUCCESS,Net Banking,iOS,Home,Mumbai,2026-08-23 10:08:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000455,cust_0455,merchant_upload,evt_000455,NONE
+5883.0,FAILED,Debit Card,iOS,Electronics,Pune,2026-08-23 10:10:30.850064,False,False,0,60,0.0,0.0,False,0,FAILED,,ord_000456,cust_0456,merchant_upload,evt_000456,NONE
+3576.0,SUCCESS,Net Banking,Android,Luxury & Watches,Delhi,2026-08-23 10:12:30.850064,False,True,0,60,0.0,0.0,False,0,COMPLETED,,ord_000457,cust_0457,merchant_upload,evt_000457,REQUESTED
+6529.0,SUCCESS,Net Banking,Android,Home,Pune,2026-08-23 10:14:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000458,cust_0458,merchant_upload,evt_000458,NONE
+1567.0,FAILED,Debit Card,Android,Home,Pune,2026-08-23 10:16:30.850064,False,False,0,60,0.0,0.0,False,0,FAILED,,ord_000459,cust_0459,merchant_upload,evt_000459,NONE
+13967.0,SUCCESS,Debit Card,Android,Fashion,Mumbai,2026-08-23 10:18:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000460,cust_0460,merchant_upload,evt_000460,NONE
+4154.0,SUCCESS,Net Banking,Desktop,Electronics,Hyderabad,2026-08-23 10:20:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000461,cust_0461,merchant_upload,evt_000461,NONE
+647.0,SUCCESS,Debit Card,Android,Fashion,Pune,2026-08-23 10:22:30.850064,False,True,0,60,0.0,0.0,False,0,COMPLETED,,ord_000462,cust_0462,merchant_upload,evt_000462,REQUESTED
+1648.0,SUCCESS,EMI,Desktop,Home,Bangalore,2026-08-23 10:24:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000463,cust_0463,merchant_upload,evt_000463,NONE
+10902.0,SUCCESS,Debit Card,Android,Electronics,Delhi,2026-08-23 10:26:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000464,cust_0464,merchant_upload,evt_000464,NONE
+4736.0,FAILED,Credit Card,iOS,Beauty,Mumbai,2026-08-23 10:28:30.850064,False,False,0,60,0.0,0.0,False,0,FAILED,,ord_000465,cust_0465,merchant_upload,evt_000465,NONE
+9992.0,SUCCESS,Debit Card,Desktop,Fashion,Pune,2026-08-23 10:30:30.850064,False,True,0,60,0.0,0.0,False,0,COMPLETED,,ord_000466,cust_0466,merchant_upload,evt_000466,REQUESTED
+3217.0,SUCCESS,Net Banking,iOS,Electronics,Delhi,2026-08-23 10:32:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000467,cust_0467,merchant_upload,evt_000467,NONE
+701.0,SUCCESS,EMI,iOS,Home,Bangalore,2026-08-23 10:34:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000468,cust_0468,merchant_upload,evt_000468,NONE
+2490.0,SUCCESS,EMI,Android,Home,Pune,2026-08-23 10:36:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000469,cust_0469,merchant_upload,evt_000469,NONE
+1546.0,SUCCESS,Net Banking,Android,Fashion,Bangalore,2026-08-23 10:38:30.850064,False,True,0,60,0.0,0.0,False,0,COMPLETED,,ord_000470,cust_0470,merchant_upload,evt_000470,REQUESTED
+9012.0,SUCCESS,UPI,Android,Beauty,Pune,2026-08-23 10:40:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000471,cust_0471,merchant_upload,evt_000471,NONE
+911.0,FAILED,UPI,Android,Fashion,Hyderabad,2026-08-23 10:42:30.850064,False,True,0,60,0.0,0.0,False,0,FAILED,,ord_000472,cust_0472,merchant_upload,evt_000472,REQUESTED
+2037.0,FAILED,UPI,Desktop,Home,Pune,2026-08-23 10:44:30.850064,False,False,0,60,0.0,0.0,False,0,FAILED,,ord_000473,cust_0473,merchant_upload,evt_000473,NONE
+8550.0,SUCCESS,Net Banking,Desktop,Beauty,Hyderabad,2026-08-23 10:46:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000474,cust_0474,merchant_upload,evt_000474,NONE
+1731.0,SUCCESS,EMI,iOS,Luxury & Watches,Mumbai,2026-08-23 10:48:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000475,cust_0475,merchant_upload,evt_000475,NONE
+6670.0,FAILED,Net Banking,iOS,Electronics,Bangalore,2026-08-23 10:50:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000476,cust_0476,merchant_upload,evt_000476,NONE
+4769.0,FAILED,Credit Card,Desktop,Home,Hyderabad,2026-08-23 10:52:30.850064,False,False,0,60,0.0,0.0,False,0,FAILED,,ord_000477,cust_0477,merchant_upload,evt_000477,NONE
+6038.0,SUCCESS,UPI,Desktop,Beauty,Mumbai,2026-08-23 10:54:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000478,cust_0478,merchant_upload,evt_000478,NONE
+1992.0,SUCCESS,Net Banking,iOS,Fashion,Hyderabad,2026-08-23 10:56:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000479,cust_0479,merchant_upload,evt_000479,NONE
+2463.0,SUCCESS,EMI,Android,Electronics,Delhi,2026-08-23 10:58:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000480,cust_0480,merchant_upload,evt_000480,NONE
+11131.0,SUCCESS,Debit Card,iOS,Electronics,Pune,2026-08-23 11:00:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000481,cust_0481,merchant_upload,evt_000481,NONE
+2019.0,SUCCESS,EMI,Android,Beauty,Delhi,2026-08-23 11:02:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000482,cust_0482,merchant_upload,evt_000482,NONE
+6782.0,SUCCESS,Debit Card,Desktop,Fashion,Bangalore,2026-08-23 11:04:30.850064,False,True,0,60,0.0,0.0,False,0,COMPLETED,,ord_000483,cust_0483,merchant_upload,evt_000483,REQUESTED
+4916.0,SUCCESS,Net Banking,iOS,Home,Pune,2026-08-23 11:06:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000484,cust_0484,merchant_upload,evt_000484,NONE
+7758.0,SUCCESS,Credit Card,iOS,Fashion,Pune,2026-08-23 11:08:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000485,cust_0485,merchant_upload,evt_000485,NONE
+17342.0,SUCCESS,EMI,iOS,Luxury & Watches,Pune,2026-08-23 11:10:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000486,cust_0486,merchant_upload,evt_000486,NONE
+5848.0,SUCCESS,Credit Card,Android,Beauty,Mumbai,2026-08-23 11:12:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000487,cust_0487,merchant_upload,evt_000487,NONE
+13679.0,SUCCESS,Debit Card,iOS,Luxury & Watches,Bangalore,2026-08-23 11:14:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000488,cust_0488,merchant_upload,evt_000488,NONE
+5393.0,SUCCESS,Debit Card,Desktop,Electronics,Delhi,2026-08-23 11:16:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000489,cust_0489,merchant_upload,evt_000489,NONE
+899.0,SUCCESS,Credit Card,iOS,Home,Hyderabad,2026-08-23 11:18:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000490,cust_0490,merchant_upload,evt_000490,NONE
+14438.0,SUCCESS,UPI,Android,Electronics,Mumbai,2026-08-23 11:20:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000491,cust_0491,merchant_upload,evt_000491,NONE
+6074.0,SUCCESS,Debit Card,iOS,Luxury & Watches,Bangalore,2026-08-23 11:22:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000492,cust_0492,merchant_upload,evt_000492,NONE
+2324.0,SUCCESS,Debit Card,Desktop,Luxury & Watches,Mumbai,2026-08-23 11:24:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000493,cust_0493,merchant_upload,evt_000493,NONE
+11384.0,SUCCESS,Net Banking,iOS,Fashion,Pune,2026-08-23 11:26:30.850064,True,True,0,60,0.0,0.0,False,0,ABANDONED,,ord_000494,cust_0494,merchant_upload,evt_000494,REQUESTED
+883.0,SUCCESS,UPI,Android,Beauty,Delhi,2026-08-23 11:28:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000495,cust_0495,merchant_upload,evt_000495,NONE
+9047.0,SUCCESS,Net Banking,Desktop,Beauty,Bangalore,2026-08-23 11:30:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000496,cust_0496,merchant_upload,evt_000496,NONE
+1992.0,SUCCESS,Credit Card,Android,Electronics,Pune,2026-08-23 11:32:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000497,cust_0497,merchant_upload,evt_000497,NONE
+14049.0,SUCCESS,UPI,Desktop,Luxury & Watches,Bangalore,2026-08-23 11:34:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000498,cust_0498,merchant_upload,evt_000498,NONE
+8548.0,FAILED,Debit Card,Android,Luxury & Watches,Pune,2026-08-23 11:36:30.850064,True,False,0,60,0.0,0.0,False,0,ABANDONED,,ord_000499,cust_0499,merchant_upload,evt_000499,NONE
+722.0,SUCCESS,Debit Card,Desktop,Luxury & Watches,Pune,2026-08-23 11:38:30.850064,False,False,0,60,0.0,0.0,False,0,COMPLETED,,ord_000500,cust_0500,merchant_upload,evt_000500,NONE

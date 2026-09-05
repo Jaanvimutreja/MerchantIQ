@@ -3,3 +3,8 @@ uvicorn
 sqlalchemy
 pydantic
 python-dotenv
+# ML/stats — Phase 2 Problem Discovery Engine
+pandas
+numpy
+scikit-learn
+scipy
