@@ -1,9 +1,82 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap");
 @import "tailwindcss";
 
+@theme {
+  --font-sans: "Inter", var(--font-inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif);
+}
+
+:root {
+  --font-inter: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+/* ── Global Typography: Clean Modern Grotesk (Inter) ──────────────────── */
+*,
+html,
+body,
+button,
+input,
+select,
+textarea {
+  font-family: "Inter", var(--font-inter), -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "cv02" 1, "cv03" 1, "cv04" 1, "cv11" 1, "calt" 1;
+}
+
 body {
-  font-family:
-    "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    "Helvetica Neue", Arial, sans-serif;
-  background-color: #f9fafb;
-  color: #111827;
+  background-color: #f8fafc;
+  color: #0f172a;
+  font-weight: 400; /* 400 body */
+}
+
+/* Strict hierarchy conforming to specification */
+/* 400 body text */
+p, span, li, td, a {
+  font-weight: 400;
+}
+
+/* 500 labels & helper text */
+label,
+.font-medium,
+[data-label],
+.uppercase {
+  font-weight: 500;
+}
+
+/* 600 buttons, tags, navigation */
+button,
+nav a,
+.font-semibold,
+[role="button"] {
+  font-weight: 600;
+}
+
+/* 700 headings */
+h1, h2, h3, h4, h5, h6,
+.font-bold {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+/* 800 major KPIs & financial figures */
+.font-extrabold,
+.text-xl,
+.text-2xl,
+.text-3xl {
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  font-variant-numeric: tabular-nums;
+}
+
+/* Sharp, dense numbers for metrics, currencies, and data tables */
+table,
+.font-mono,
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Crisp uppercase metadata badges */
+.uppercase {
+  letter-spacing: 0.06em;
 }

@@ -59,28 +59,30 @@ export default function CreateBargainPage() {
   }
 
   const inputClass =
-    "w-full px-3 py-2 border border-gray-300 rounded-lg text-sm text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 disabled:bg-gray-50 disabled:text-gray-400";
-  const labelClass = "block text-sm font-medium text-gray-700 mb-1";
+    "w-full px-4 py-2.5 border border-gray-300 rounded-lg text-base text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 disabled:bg-gray-50 disabled:text-gray-400 transition-colors";
+  const labelClass = "block text-base font-bold text-gray-800 mb-1.5";
 
   return (
-    <div className="max-w-lg mx-auto">
-      <a href="/" className="text-sm text-blue-600 hover:text-blue-800 mb-4 inline-block">
+    <div className="max-w-xl mx-auto">
+      <a href="/" className="text-base font-semibold text-blue-600 hover:text-blue-800 mb-4 inline-flex items-center gap-1.5 transition-colors">
         ← Back to Dashboard
       </a>
 
-      <div className="bg-white border border-gray-200 rounded-lg p-6">
-        <h1 className="text-xl font-semibold text-gray-900 mb-1">Create Bargain</h1>
-        <p className="text-sm text-gray-500 mb-6">
+      <div className="bg-white border border-gray-200 rounded-xl p-6 sm:p-8 shadow-xs">
+        <h1 className="text-2xl sm:text-3xl font-extrabold tracking-tight text-gray-900 mb-1.5">
+          Create Bargain
+        </h1>
+        <p className="text-base text-gray-600 mb-6 leading-relaxed">
           Set up a new limited-time bargain for a product.
         </p>
 
         {error && (
-          <div className="bg-red-50 border border-red-200 rounded-lg p-3 text-red-700 text-sm mb-4">
+          <div className="bg-red-50 border border-red-200 rounded-lg p-3.5 text-red-700 text-base font-medium mb-4">
             {error}
           </div>
         )}
 
-        <form onSubmit={handleSubmit} className="space-y-4">
+        <form onSubmit={handleSubmit} className="space-y-5">
           {/* Product Name */}
           <div>
             <label className={labelClass}>Product Name</label>
@@ -190,7 +192,7 @@ export default function CreateBargainPage() {
           <button
             type="submit"
             disabled={submitting}
-            className="w-full py-2.5 bg-blue-600 text-white text-sm font-medium rounded-lg hover:bg-blue-700 transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
+            className="w-full py-3 bg-blue-600 text-white text-base font-bold rounded-lg hover:bg-blue-700 transition-colors disabled:opacity-50 disabled:cursor-not-allowed shadow-sm"
           >
             {submitting ? "Creating…" : "Create Bargain"}
           </button>

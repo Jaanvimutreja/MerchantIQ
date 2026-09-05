@@ -6,3 +6,4 @@ frontend/.next/
 __pycache__/
 *.pyc
 backend/bargainai2.db
+bargainai2.db

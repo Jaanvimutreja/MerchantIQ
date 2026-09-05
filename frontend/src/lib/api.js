@@ -97,5 +97,71 @@ export function createPaymentOrder(bargainId, offerId) {
   });
 }
 
+// ── MerchantIQ AI Endpoints (Phases 2-4) ──────────────────────
 
+export function getDiscoveries() {
+  return apiFetch("/ai/discoveries");
+}
 
+export function getDiscovery(discoveryId) {
+  return apiFetch(`/ai/discoveries/${discoveryId}`);
+}
+
+export function investigateDiscovery(discoveryId) {
+  return apiFetch(`/ai/investigate/${discoveryId}`, {
+    method: "POST",
+  });
+}
+
+export function getInvestigations() {
+  return apiFetch("/ai/investigations");
+}
+
+export function resolveDiscovery(discoveryId) {
+  return apiFetch(`/ai/resolve/${discoveryId}`, {
+    method: "POST",
+  });
+}
+
+export function getResolutions() {
+  return apiFetch("/ai/resolutions");
+}
+
+export function getResolution(resolutionId) {
+  return apiFetch(`/ai/resolutions/${resolutionId}`);
+}
+
+export async function analyzeMerchantCsv(file) {
+  const formData = new FormData();
+  formData.append("file", file);
+
+  const res = await fetch("http://127.0.0.1:8000/ai/analyze-csv", {
+    method: "POST",
+    body: formData,
+  });
+
+  const data = await res.json().catch(() => null);
+
+  if (!res.ok) {
+    const detail = data?.detail;
+    const message =
+      typeof detail === "string"
+        ? detail
+        : detail?.message || "Failed to analyze merchant CSV file.";
+    const err = new Error(message);
+    err.details = detail;
+    throw err;
+  }
+
+  return data;
+}
+
+export function resetDemoDataset() {
+  return apiFetch("/ai/reset-demo", {
+    method: "POST",
+  });
+}
+
+export function getDatasetInfo() {
+  return apiFetch("/ai/dataset-info");
+}
